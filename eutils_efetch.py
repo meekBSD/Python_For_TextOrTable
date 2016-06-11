@@ -11,6 +11,7 @@ import socket, time
 print os.getcwd()
 
 ID_list = [a.rstrip() for a in open("nocl_id.txt",'r').readlines()]
+ID_set = set(ID_list)
 
 base = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 ## search = {"db": "taxonomy", "id": "2057", "retmode":"xml"}
@@ -23,7 +24,7 @@ timeout = 5
 socket.setdefaulttimeout(timeout)
 sleep_download_time = 3
 
-for order_id in ID_list:
+for order_id in ID_set:                  # Here use the set of taxonomy ID, without duplicate ids
     
     search = {"db": "taxonomy", "id": order_id, "retmode":"xml"}
     values = urllib.urlencode(search)
