@@ -36,21 +36,28 @@ for order_id in ID_set:                  # Here use the set of taxonomy ID, with
         response.close()
     except UnicodeDecodeError as e:
         print ('------UnicodeDecodeError url:', order_id)
+        page = None
     except urllib2.URLError as e:
         print ('------urlError url:',order_id)
+        page = None
     except socket.timeout as e:
         print ('------socket timeout:', order_id)
+        page = None
     
-    
-    soup = BeautifulSoup(page)
-    #print soup.prettify()
+    try:
+        soup = BeautifulSoup(page)
+        #print soup.prettify()
 
-    lineage = str(soup.taxaset.lineage.contents[0])
-    #print lineage
-    line = lineage.split("; ")
-    line.reverse()
-    rever_line = line
-    #print [order_id, ";".join(rever_line)]
-    output.write("\t".join([order_id, ";".join(rever_line)])+"\n")
+        lineage = str(soup.taxaset.lineage.contents[0])
+        #print lineage
+        line = lineage.split("; ")
+        line.reverse()
+        rever_line = line
+        #print [order_id, ";".join(rever_line)]
+        output.write("\t".join([order_id, ";".join(rever_line)])+"\n")
+    except NameError, msg:
+        print ('------ %s %s'% (order_id,msg) )
+    except TypeError, msg1:
+        print ('------ %s %s'% (order_id, msg1))
 
 output.close()
