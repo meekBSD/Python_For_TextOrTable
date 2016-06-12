@@ -5,6 +5,7 @@ from __future__ import with_statement
 import os
 import sys
 import datetime
+from collections import defaultdict
 
 USAGE="python DeReplicateLines.py file1 file2 file3... "
 cwd = os.getcwd()
@@ -53,4 +54,23 @@ for i in sorted(resultD.iteritems(), key = lambda x:int(x[0].split("_")[0]), rev
 	result_file.write(i[0]+"\t"+i[1]+"\n")
 
 result_file.close()
+
+filename2 = "file"+"_"+jobTime+"_2"
+
+d_2 = defaultdict(list)
+
+for k,v in resultD.iteritems():
+        k2 = k.split(":")[0]
+        v2 = k.split(":")[1] + "\t"+v
+        if d_2[k2] == []:
+                d_2[k2].append(v2)
+        elif v < float(d_2[k2][0].split("\t")[1]):
+                d_2[k2][0] = v2
+
+fresult = open(filename2, "w")
+for k,v in d_2.iteritems():
+        fresult.write("\t".join(k.split("_"))+"\t"+v[0]+"\n")
+
+fresult.close()
+
 	
