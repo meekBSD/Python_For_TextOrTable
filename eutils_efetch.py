@@ -63,3 +63,5 @@ for order_id in ID_set:                  # Here use the set of taxonomy ID, with
         print ('------ %s %s'% (order_id, msg1))
 
 output.close()
+
+## Ref:  https://ncbiinsights.ncbi.nlm.nih.gov/2013/02/19/how-to-download-bacterial-genomes-using-the-entrez-api/
