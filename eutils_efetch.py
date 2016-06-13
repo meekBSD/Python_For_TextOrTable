@@ -15,6 +15,8 @@ ID_set = set(ID_list)
 
 base = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 ## search = {"db": "taxonomy", "id": "2057", "retmode":"xml"}
+## efetch.fcgi?db=nuccore&id=25026556&rettype=fasta&retmode=text   // other ID example  HQ914928
+
 user_agent="Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)"
 headers = {'User-Agent':user_agent}
 
