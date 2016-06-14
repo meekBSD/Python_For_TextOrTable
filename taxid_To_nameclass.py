@@ -6,6 +6,8 @@ from __future__ import with_statement
 lp = []
 lq = []
 
+## awk -F "\t" '{if($5~/phylum/){print;}}' > phylum_1_name.txt  --- This command could create a file contain phylums
+
 ##phyd = open("phyname.txt",'r')
 
 ##for i in phyd.readlines():
