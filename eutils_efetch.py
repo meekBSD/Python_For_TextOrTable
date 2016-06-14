@@ -10,6 +10,8 @@ import socket, time
 
 print os.getcwd()
 
+## awk '{if($NF~/NoClassifi/)print;}' result_phy2.txt | cut -f3 > nocl_id.txt  --- This command could generate file contain IDs without taxonomy information.
+
 ID_list = [a.rstrip() for a in open("nocl_id.txt",'r').readlines()]
 ID_set = set(ID_list)
 
