@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
-## This script create a file named "phy3.txt" which will be used by the classification.py program ##
+## This script reads in nodes.dmp file and creates a file named "phy3.txt" which will be used by the classification.py program ##
 
 import sys
 import re
