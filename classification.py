@@ -83,3 +83,5 @@ try:
         #    break
 except Exception, e:
     print str(e)
+    
+test_PFresult.close()
