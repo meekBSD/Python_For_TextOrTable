@@ -90,7 +90,7 @@ another_w = ['<25', '25-30', '>30']
 w2 = dict.fromkeys(another_w, 0)
 print(w2)
 
-for d in temp:
+for d in sorted(temp):
 	if temp[d][1] <= 30:
 		continue
 	elif temp[d][1] > 30:
