@@ -1,92 +1,98 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
-from Bio import SeqIO
-from glob import glob
-import os
-import subprocess
-from collections import defaultdict
-import linecache
-
-def GC_number(seq):
-    gc = sum(seq.count(x) for x in ['G', 'C', 'g', 'c', 'S', 's'])
-    return gc
 
 
-fa_file = glob("*.fasta")
-d_stat = defaultdict(list)
+temp = { '2018-06-01' : [19, 27],
+          '2018-06-02' : [20, 27],
+			  '2018-06-03' : [20,27],
+				  '2018-06-04' : [20,27],
+					  '2018-06-05' : [20,27],
+						  '2018-06-06' : [20,27],
+							  '2018-06-07' : [20,28],
+								   '2018-06-08' : [20,28],
+						 '2018-06-09' : [21,28],
+						 '2018-06-10' : [21,28],
+						 '2018-06-11' : [21,28],
+						 '2018-06-12' : [21,28],
+						 '2018-06-13' : [21,28],
+						 '2018-06-14' : [21,28],
+						 '2018-06-15' : [21,28],
+						 '2018-06-16' : [22,28],
+						 '2018-06-17' : [22,28],
+						 '2018-06-18' : [22,28],
+						 '2018-06-19' : [22,29],
+						 '2018-06-20' : [22,29],
+						 '2018-06-21' : [22,29],
+						 '2018-06-22' : [23,29],
+						 '2018-06-23' : [23,29],
+						 '2018-06-24' : [23,29],
+						 '2018-06-25' : [23,29],
+						 '2018-06-26' : [23,30],
+						 '2018-06-27' : [24,30],
+						 '2018-06-28' : [24,30],
+						 '2018-06-29' : [24,30],
+						 '2018-06-30' : [24,30],
+						 '2018-07-01' : [24,31],
+						 '2018-07-02' : [24,31],
+						 '2018-07-03' : [25,31],
+						 '2018-07-04' : [25,31],
+						 '2018-07-05' : [25,31],
+						 '2018-07-06' : [25,32],
+						 '2018-07-07' : [26,32],
+						 '2018-07-08' : [25,32],
+						 '2018-07-09' : [25,32],
+						 '2018-07-10' : [25,32],
+						 '2018-07-11' : [26,33],
+						 '2018-07-12' : [26,33],
+						 '2018-07-13' : [26,33],
+						 '2018-07-14' : [26,33],
+						 '2018-07-15' : [26,33],
+						 '2018-07-16' : [26,33],
+						 '2018-07-17' : [26,33],
+						 '2018-07-18' : [26,34],
+						 '2018-07-19' : [26,34],
+						 '2018-07-20' : [26,34],
+						 '2018-07-21' : [26,34],
+						 '2018-07-22' : [26,34],
+						 '2018-07-23' : [26,34],
+						'2018-07-24' :  [26,34],
+						'2018-07-25' :  [26,34],
+						'2018-07-26' :  [26,34],
+						'2018-07-27' :  [26,34],
+						'2018-07-28' :  [26,34],
+						'2018-07-29' :  [26,33],
+						'2018-07-30' :  [26,33],
+						'2018-07-31' :  [26,33],
+						
 
-for i in fa_file:
-    #print(i)
-    records = SeqIO.parse(i, "fasta")
-    gc_n = 0
-    genome = 0
-    for rec in records:
-        sequence = str(rec.seq)
-        gc_n += GC_number(sequence)
-        genome += len(sequence)
-    d_stat[i].append(genome)
-    #print("%d\n" % genome)
-    #print("%.4f\n" % (gc_n*1.0/genome))
-    d_stat[i].append(gc_n*1.0/genome)
-    
-    gff_file = os.popen("ls "+i.rstrip(".fasta")+"/temp*.txt").read()
-
-    #print os.popen("awk '!/^#/{print $9}' "+ gff_file.rstrip() + " | wc -l").read()
-    cds_number = 0
-    with open("./"+gff_file.rstrip(),"r") as f:
-        for cnt, line in enumerate(f.readlines()):
-            if line.startswith("#"):
-                continue
-            cds_number += 1
-    #print cds_number
-    d_stat[i].append(cds_number)
-    coding_region=os.popen("awk 'BEGIN{sum=0}!/^#/{a=$5-$4;sum+=a}END{print sum}' "+gff_file.rstrip()).read()
-    #print("%.4f\n" % (float(coding_region.rstrip())/genome))
-    d_stat[i].append(float(coding_region.rstrip())/genome)
-    
-    tRNA_stat=os.popen("ls " +i.rstrip(".fasta")+"/tRNA/*_stat").read()
-    #print linecache.getline(tRNA_stat.rstrip(), 56).rstrip().split()[2]
-    d_stat[i].append(linecache.getline(tRNA_stat.rstrip(), 56).rstrip().split()[2])
-
-    rRNA_seq = os.listdir(i.rstrip(".fasta")+"/rRNA/out/")
-    #print rRNA_seq
-    r_seq = [t for t in rRNA_seq if t.endswith(".seq")]
-    if r_seq != []:
-        a = os.popen("grep -c '>' "+ i.rstrip(".fasta")+"/rRNA/out/"+r_seq[0]).read()
-        #print ("rRNA number: "+a)
-        d_stat[i].append(a.rstrip())
-    else:
-        d_stat[i].append("-") 
-        
-
-    hmmID = os.popen("ls "+ i.rstrip(".fasta") + "/assembly_*.hmm.id.txt").read()
-
-    tot_ess = os.popen("wc -l " + hmmID.rstrip()).read()
-    uniq_ess =os.popen("cut -d ' ' -f 2 "+ hmmID.rstrip() +" | sort -u | wc -l").read()
-    #print tot_ess.rstrip().split()[0]
-    d_stat[i].append(tot_ess.rstrip().split()[0])
-    #print uniq_ess
-    d_stat[i].append(uniq_ess.rstrip())
-
-print ("species\tgenome\tgc_ratio\tCDS\tcoding density\ttRNA\trRNA\ttot.ess\tuniq_ess\n")
-for item in d_stat.items():
-    print ("{0}\t{1}\t{2:.4f}\t{3}\t{4:.4f}\t{5}\t{6}\t{7}\t{8}".format(item[0],
-            item[1][0],item[1][1], item[1][2], item[1][3], item[1][4], item[1][5],item[1][6], item[1][7]))
-
-print ("###############################################################################\n")
-
-all_ks = d_stat.keys()
-#k_num = len(all_ks)
-
-print "species"+"\t"+"\t".join([k0.rstrip(".fasta") for k0 in all_ks])
-print "genome\t"+"\t".join([str(d_stat.get(k1)[0]) for k1 in all_ks])
-print "gc_ratio\t"+"\t".join([str("{0:.4f}".format(d_stat.get(k2)[1])) for k2 in all_ks])
-print "CDS\t"+"\t".join([str(d_stat.get(k3)[2]) for k3 in all_ks])
-print "coding density\t"+"\t".join([str("{0:.4f}".format(d_stat.get(k4)[3])) for k4 in all_ks])
-print "tRNA\t"+"\t".join([str(d_stat.get(k5)[4]) for k5 in all_ks])
-print "rRNA\t"+"\t".join([str(d_stat.get(k6)[5]) for k6 in all_ks])
-print "tot.ess\t"+"\t".join([str(d_stat.get(k7)[6]) for k7 in all_ks])
-print "uniq_ess\t"+"\t".join([str(d_stat.get(k8)[7]) for k8 in all_ks])
+}
 
 
+for day in temp:
+	print('The temperature of %s is %s' % (day, temp[day]))
+
+
+weather_test = {'<25': 0, '25-30': 0, '>30':0}
+
+for d in temp:
+	if temp[d][1] < 25:
+		weather_test['<25'] += 1
+	elif temp[d][1] > 25 and temp[d][1] < 30:
+		weather_test['25-30'] += 1
+	else:
+		weather_test['>30'] += 1
+
+for i in weather_test:
+	print('%s = > %d days' % (i, weather_test[i]))
+
+another_w = ['<25', '25-30', '>30']
+w2 = dict.fromkeys(another_w, 0)
+print(w2)
+
+for d in temp:
+	if temp[d][1] <= 30:
+		continue
+	elif temp[d][1] > 30:
+		print('from %s the temperature is above 30 Celsius degree.' % d)
+		break
