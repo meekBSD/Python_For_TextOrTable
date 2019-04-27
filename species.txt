@@ -1,0 +1,1720 @@
+Taxa	Common Name	Scientific Name
+Amphibian	Austin Blind Salamander	Eurycea waterlooensis
+Amphibian	Atlantic Coast Slimy Salamander	Plethodon chlorobryonis
+Amphibian	Apalachicola Dusky Salamander	Desmognathus apalachicolae
+Amphibian	Amargosa Toad	Anaxyrus nelsoni
+Amphibian	American Bullfrog	Lithobates catesbeianus
+Amphibian	Allegheny Mountain Dusky Salamander	Desmognathus ochrophaeus
+Amphibian	American Toad	Anaxyrus americanus
+Amphibian	Arboreal Salamander	Aneides lugubris
+Amphibian	Arroyo Toad	Anaxyrus californicus
+Amphibian	Arizona Toad	Anaxyrus microscaphus
+Amphibian	Arizona Treefrog	Hyla wrightorum
+Amphibian	Barking Frog	Craugastor augusti
+Amphibian	Barking Treefrog	Hyla gratiosa
+Amphibian	Black-bellied Slender Salamander	Batrachoseps nigriventris
+Amphibian	Berry Cave Salamander	Gyrinophilus gulolineatus
+Amphibian	Baja California Treefrog	Pseudacris hypochondriaca
+Amphibian	Black-bellied Salamander	Desmognathus quadramaculatus
+Amphibian	Blue Ridge Gray-cheeked Salamander	Plethodon amplus
+Amphibian	Big Levels Salamander	Plethodon sherando
+Amphibian	Black Salamander	Aneides flavipunctatus
+Amphibian	Blanco Blind Salamander	Eurycea robusta
+Amphibian	Black Toad	Anaxyrus exsul
+Amphibian	Black Mountain Salamander	Desmognathus welteri
+Amphibian	Boreal Chorus Frog	Pseudacris maculata
+Amphibian	Western Toad	Anaxyrus boreas
+Amphibian	Blue Ridge Dusky Salamander	Desmognathus orestes
+Amphibian	Brimley's Chorus Frog	Pseudacris brimleyi
+Amphibian	Blue Ridge Two-lined Salamander	Eurycea wilderae
+Amphibian	Black-spotted Newt	Notophthalmus meridionalis
+Amphibian	Barton Springs Salamander	Eurycea sosorum
+Amphibian	Barred Tiger Salamander	Ambystoma mavortium
+Amphibian	Blue-spotted Salamander	Ambystoma laterale
+Amphibian	Burrowing Toad	Rhinophrynus dorsalis
+Amphibian	Bird-voiced Treefrog	Hyla avivoca
+Amphibian	Black Warrior River Waterdog	Necturus alabamensis
+Amphibian	Cane Toad	Rhinella marinus
+Amphibian	Calfifornia Giant Salamander	Dicamptodon ensatus
+Amphibian	Canadian Toad	Anaxyrus hemiophrys
+Amphibian	California Treefrog	Pseudacris cadaverina
+Amphibian	Comal Blind Salamander	Eurycea tridentifera
+Amphibian	Cliff Chirping Frog	Eleutherodactylus marnockii
+Amphibian	Cascade Caverns Salamander	Eurycea latitans
+Amphibian	California Newt	Taricha torosa
+Amphibian	Cope's Giant Salamander	Dicamptodon copei
+Amphibian	Cope's Gray Treefrog	Hyla chrysoscelis
+Amphibian	Chamberlain's Dwarf Salamander	Eurycea chamberlaini
+Amphibian	Cheoah Bald Salamander	Plethodon cheoah
+Amphibian	Channel Islands Slender Salamander	Batrachoseps pacificus
+Amphibian	Cow Knob Salamander	Plethodon punctatus
+Amphibian	Chiricahua Leopard Frog	Lithobates chiricahuensis
+Amphibian	Clouded Salamander	Aneides ferreus
+Amphibian	Carolina Mountain Dusky Salamander	Desmognathus carolinensis
+Amphibian	Caddo Mountain Salamander	Plethodon caddoensis
+Amphibian	Cheat Mountain Salamander	Plethodon nettingi
+Amphibian	Columbia Spotted Frog	Rana luteiventris
+Amphibian	Coastal Giant Salamander	Dicamptodon tenebrosus
+Amphibian	Coeur D'alene Salamander	Plethodon idahoensis
+Amphibian	Couch's Spadefoot	Scaphiopus couchii
+Amphibian	Cumberland Plateau Salamander	Plethodon kentucki
+Amphibian	Carpenter Frog	Lithobates virgatipes
+Amphibian	California Red-legged Frog	Rana draytonii
+Amphibian	Cascades Frog	Rana cascadae
+Amphibian	California Slender Salamander	Batrachoseps attenuatus
+Amphibian	Chattahoochee Slimy Salamander	Plethodon chattahoochee
+Amphibian	Coastal Tailed Frog	Ascaphus truei
+Amphibian	California Tiger Salamander	Ambystoma californiense
+Amphibian	Columbia Torrent Salamander	Rhyacotriton kezeri
+Amphibian	Cascade Torrent Salamander	Rhyacotriton cascadae
+Amphibian	Cumberland Dusky Salamander	Desmognathus abditus
+Amphibian	Cuban Treefrog	Osteopilus septentrionalis
+Amphibian	Cave Salamander	Eurycea lucifuga
+Amphibian	Crawfish Frog	Lithobates areolatus
+Amphibian	Canyon Treefrog	Hyla arenicolor
+Amphibian	Dark-sided Salamander	Eurycea aquatica
+Amphibian	Dwarf Black-bellied Salamander	Desmognathus folkertsi
+Amphibian	Dusky Gopher Frog	Lithobates sevosus
+Amphibian	Del Norte Salamander	Plethodon elongatus
+Amphibian	Dunn's Salamander	Plethodon dunni
+Amphibian	Dwarf Salamander	Eurycea quadridigitata
+Amphibian	Dwarf Waterdog	Necturus punctatus
+Amphibian	Eastern Newt	Notophthalmus viridescens
+Amphibian	Eastern Spadefoot	Scaphiopus holbrookii
+Amphibian	Eastern Narrow-mouthed Toad	Gastrophryne carolinensis
+Amphibian	Ensatina	Ensatina eschscholtzii
+Amphibian	Eastern Red-backed Salamander	Plethodon cinereus
+Amphibian	Eastern Tiger Salamander	Ambystoma tigrinum
+Amphibian	Florida Bog Frog	Lithobates okaloosae
+Amphibian	Fern Bank Salamander	Eurycea pterophila
+Amphibian	Frosted Flatwoods Salamander	Ambystoma cingulatum
+Amphibian	Fourch Mountain Salamander	Plethodon fourchensis
+Amphibian	Fowler's Toad	Anaxyrus fowleri
+Amphibian	Four-toed Salamander	Hemidactylium scutatum
+Amphibian	Foothill Yellow-legged Frog	Rana boylii
+Amphibian	Georgia Blind Salamander	Haideotriton wallacei
+Amphibian	Great Basin Spadefoot	Spea intermontana
+Amphibian	Gulf Coast Toad	Ollotis nebulifer
+Amphibian	Georgetown Salamander	Eurycea naufragia
+Amphibian	Gregarious Salamander	Batrachoseps gregarius
+Amphibian	Greenhouse Frog	Eleutherodactylus planirostris
+Amphibian	Gabilan Mountains Slender Salamander	Batrachoseps gavilanensis
+Amphibian	Gopher Frog	Lithobates capito
+Amphibian	Great Plains Toad	Anaxyrus cognatus
+Amphibian	Green Frog	Lithobates clamitans
+Amphibian	Green Salamander	Aneides aeneus
+Amphibian	Greater Siren	Siren lacertina
+Amphibian	Green Toad	Anaxyrus debilis
+Amphibian	Green Treefrog	Hyla cinerea
+Amphibian	Grotto Salamander	Eurycea spelaea
+Amphibian	Garden Slender Salamander	Batrachoseps major
+Amphibian	Gulf Coast Waterdog	Necturus beyeri
+Amphibian	Gray Treefrog	Hyla versicolor
+Amphibian	Eastern Hellbender	Cryptobranchus alleganiensis alleganiensis
+Amphibian	Ozark Hellbender	Cryptobranchus alleganiensis bishopi
+Amphibian	Hellbender	Cryptobranchus alleganiensis
+Amphibian	Hell Hollow Slender Salamander	Batrachoseps diabolicus
+Amphibian	Houston Toad	Anaxyrus houstonensis
+Amphibian	Hurter's Spadefoot	Scaphiopus hurterii
+Amphibian	Idaho Giant Salamander	Dicamptodon aterrimus
+Amphibian	Illinois Chorus Frog	Pseudacris illinoensis
+Amphibian	Imitator Salamander	Desmognathus imitator
+Amphibian	Inyo Mountains Salamander	Batrachoseps campi
+Amphibian	Jefferson Salamander	Ambystoma jeffersonianum
+Amphibian	Jemez Mountains Salamander	Plethodon neomexicanus
+Amphibian	Jollyville Plateau Salamander	Eurycea tonkawae
+Amphibian	Junaluska Salamander	Eurycea junaluska
+Amphibian	Kern Canyon Slender Salamander	Batrachoseps simatus
+Amphibian	Kern Plateau Salamander	Batrachoseps robustus
+Amphibian	Kings River Slender Salamander	Batrachoseps regius
+Amphibian	Kiamichi Slimy Salamander	Plethodon kiamichi
+Amphibian	Louisiana Slimy Salamander	Plethodon kisatchie
+Amphibian	Lowland Burrowing Treefrog	Smilisca fodiens
+Amphibian	Lesser Siren	Siren intermedia
+Amphibian	Little Grass Frog	Pseudacris ocularis
+Amphibian	Limestone Salamander	Hydromantes brunus
+Amphibian	Lowland Leopard Frog	Lithobates yavapaiensis
+Amphibian	Larch Mountain Salamander	Plethodon larselli
+Amphibian	Lesser Slender Salamander	Batrachoseps minor
+Amphibian	Long-tailed Salamander	Eurycea longicauda
+Amphibian	Long-toed Salamander	Ambystoma macrodactylum
+Amphibian	Marbled Salamander	Ambystoma opacum
+Amphibian	Mabee's Salamander	Ambystoma mabeei
+Amphibian	Mountain Chorus Frog	Pseudacris brachyphona
+Amphibian	Mink Frog	Lithobates septentrionalis
+Amphibian	Many-lined Salamander	Stereochilus marginatus
+Amphibian	Mount Lyell Salamander	Hydromantes platycephalus
+Amphibian	Mole Salamander	Ambystoma talpoideum
+Amphibian	Many-ribbed Salamander	Eurycea multiplicata
+Amphibian	Mississippi Slimy Salamander	Plethodon mississippi
+Amphibian	Mudpuppy	Necturus maculosus
+Amphibian	Mud Salamander	Pseudotriton montanus
+Amphibian	Mexican White-lipped Frog	Leptodactylus fragilis
+Amphibian	Mexican Spadefoot	Spea multiplicata
+Amphibian	Mexican Treefrog	Smilisca baudinii
+Amphibian	Northern Cricket Frog	Acris crepitans
+Amphibian	Northern Dusky Salamander	Desmognathus fuscus
+Amphibian	Northern Dwarf Siren	Pseudobranchus striatus
+Amphibian	Northern Gray-cheeked Salamander	Plethodon montanus
+Amphibian	New Jersey Chorus Frog	Pseudacris kalmi
+Amphibian	Northern Leopard Frog	Lithobates pipiens
+Amphibian	Northwestern Salamander	Ambystoma gracile
+Amphibian	Northern Pacific Treefrog	Pseudacris regilla
+Amphibian	Northern Red-legged Frog	Rana aurora
+Amphibian	Northern Ravine Salamander	Plethodon electromorphus
+Amphibian	Neuse River Waterdog	Necturus lewisi
+Amphibian	Northern Slimy Salamander	Plethodon glutinosus
+Amphibian	Northern Two-lined Salamander	Eurycea bislineata
+Amphibian	Northern Zigzag Salamander	Plethodon dorsalis
+Amphibian	Oak Toad	Anaxyrus quercicus
+Amphibian	Ornate Chorus Frog	Pseudacris ornata
+Amphibian	Ocoee Salamander	Desmognathus ocoee
+Amphibian	Ocmulgee Slimy Salamander	Plethodon ocmulgee
+Amphibian	Ouachita Dusky Salamander	Desmognathus brimleyorum
+Amphibian	Oklahoma Salamander	Eurycea tynerensis
+Amphibian	Oregon Spotted Frog	Rana pretiosa
+Amphibian	Oregon Slender Salamander	Batrachoseps wrightorum
+Amphibian	One-toed Amphiuma	Amphiuma pholeter
+Amphibian	Olympic Torrent Salamander	Rhyacotriton olympicus
+Amphibian	Ozark Zigzag Salamander	Plethodon angusticlavius
+Amphibian	Pine Barrens Treefrog	Hyla andersonii
+Amphibian	Pickerel Frog	Lithobates palustris
+Amphibian	Pig Frog	Lithobates grylio
+Amphibian	Plains Leopard Frog	Lithobates blairi
+Amphibian	Plains Spadefoot	Spea bombifrons
+Amphibian	Pigeon Mountain Salamander	Plethodon petraeus
+Amphibian	Peaks Of Otter Salamander	Plethodon hubrichti
+Amphibian	Pine Woods Treefrog	Hyla femoralis
+Amphibian	Pygmy Salamander	Desmognathus wrighti
+Amphibian	Red-bellied Newt	Taricha rivularis
+Amphibian	Red-cheeked Salamander	Plethodon jordani
+Amphibian	Red Salamander	Pseudotriton ruber
+Amphibian	Reticulated Flatwoods Salamander	Ambystoma bishopi
+Amphibian	Rio Grande Chirping Frog	Eleutherodactylus cystignathoides
+Amphibian	Rio Grande Leopard Frog	Lithobates berlandieri
+Amphibian	Red Hills Salamander	Phaeognathus hubrichti
+Amphibian	River Frog	Lithobates heckscheri
+Amphibian	Ringed Salamander	Ambystoma annulatum
+Amphibian	Relict Leopard Frog	Lithobates onca
+Amphibian	Red-legged Salamander	Plethodon shermani
+Amphibian	Rich Mountain Salamander	Plethodon ouachitae
+Amphibian	Rocky Mountain Tailed Frog	Ascaphus montanus
+Amphibian	Rough-skinned Newt	Taricha granulosa
+Amphibian	Relictual Slender Salamander	Batrachoseps relictus
+Amphibian	Red-spotted Toad	Anaxyrus punctatus
+Amphibian	Santeetlah Dusky Salamander	Desmognathus santeetlah
+Amphibian	Salado Salamander	Eurycea chisholmensis
+Amphibian	Southern Cricket Frog	Acris gryllus
+Amphibian	Scott Bar Salamander	Plethodon asupak
+Amphibian	South Carolina Slimy Salamander	Plethodon variolatus
+Amphibian	Shenandoah Salamander	Plethodon shenandoah
+Amphibian	Southern Dwarf Siren	Pseudobranchus axanthus
+Amphibian	Seal Salamander	Desmognathus monticola
+Amphibian	Seepage Salamander	Desmognathus aeneus
+Amphibian	Sierra Newt	Taricha sierrea
+Amphibian	Southern Gray-cheeked Salamander	Plethodon metcalfi
+Amphibian	San Gabriel Mountains Slender Salamander	Batrachoseps gabrieli
+Amphibian	Sonoran Green Toad	Anaxyrus retiformis
+Amphibian	Sheep Frog	Hypopachus variolosus
+Amphibian	Shenandoah Mountain Salamander	Plethodon virginia
+Amphibian	Shasta Salamander	Hydromantes shastae
+Amphibian	Sierran Treefrog	Pseudacris sierra
+Amphibian	Southern Leopard Frog	Lithobates sphenocephalus
+Amphibian	Southern Mountain Yellow-legged Frog	Rana muscosa
+Amphibian	South Mountain Gray-cheeked Salamander	Plethodon meridianus
+Amphibian	Small-mouthed Salamander	Ambystoma texanum
+Amphibian	San Marcos Salamander	Eurycea nana
+Amphibian	Santa Lucia Mountains Slender Salamander	Batrachoseps luciae
+Amphibian	Sacramento Mountains Salamander	Aneides hardii
+Amphibian	Shovel-nosed Salamander	Desmognathus marmoratus
+Amphibian	Sonoran Desert Toad	Ollotis alvaria
+Amphibian	Southern Appalachian Salamander	Plethodon teyahalee
+Amphibian	Southern Dusky Salamander	Desmognathus auriculatus
+Amphibian	Southern Chorus Frog	Pseudacris nigrita
+Amphibian	Southern Toad	Anaxyrus terrestris
+Amphibian	Spotted Chirping Frog	Eleutherodactylus guttilatus
+Amphibian	Spotted Dusky Salamander	Desmognathus conanti
+Amphibian	Spotted Chorus Frog	Pseudacris clarkii
+Amphibian	Spotted Salamander	Ambystoma maculatum
+Amphibian	Spring Peeper	Pseudacris crucifer
+Amphibian	Spring Salamander	Gyrinophilus porphyriticus
+Amphibian	Sequoyah Slimy Salamander	Plethodon sequoyah
+Amphibian	Squirrel Treefrog	Hyla squirella
+Amphibian	Southern Red-backed Salamander	Plethodon serratus
+Amphibian	Southern Ravine Salamander	Plethodon richmondi
+Amphibian	Sequoia Slender Salamander	Batrachoseps kawia
+Amphibian	Southeastern Slimy Salamander	Plethodon grobmani
+Amphibian	San Simeon Slender Salamander	Batrachoseps incognitus
+Amphibian	Savannah Slimy Salamander	Plethodon savannah
+Amphibian	Strecker's Chorus Frog	Pseudacris streckeri
+Amphibian	Southern Two-lined Salamander	Eurycea cirrigera
+Amphibian	Striped Newt	Notophthalmus perstriatus
+Amphibian	Southern Torrent Salamander	Rhyacotriton variegatus
+Amphibian	Streamside Salamander	Ambystoma barbouri
+Amphibian	Sierra Nevada Yellow-legged Frog	Rana sierrae
+Amphibian	Siskiyou Mountains Salamander	Plethodon stormi
+Amphibian	Southern Zigzag Salamander	Plethodon ventralis
+Amphibian	Texas Blind Salamander	Eurycea rathbuni
+Amphibian	Tennessee Cave Salamander	Gyrinophilus palleucus
+Amphibian	Tellico Salamander	Plethodon aureolus
+Amphibian	Texas Toad	Anaxyrus speciosus
+Amphibian	Three-toed Amphiuma	Amphiuma tridactylum
+Amphibian	Three-lined Salamander	Eurycea guttolineata
+Amphibian	Tehachapi Slender Salamander	Batrachoseps stebbinsi
+Amphibian	Two-toed Amphiuma	Amphiuma means
+Amphibian	Texas Salamander	Eurycea neotenes
+Amphibian	Upland Chorus Frog	Pseudacris feriarum
+Amphibian	Van Dyke's Salamander	Plethodon vandykei
+Amphibian	Valdina Farms Salamander	Eurycea troglodytes
+Amphibian	Valley And Ridge Salamander	Plethodon hoffmani
+Amphibian	Wandering Salamander	Aneides vagrans
+Amphibian	Webster's Salamander	Plethodon websteri
+Amphibian	Western Chorus Frog	Pseudacris triseriata
+Amphibian	Western Spadefoot	Spea hammondii
+Amphibian	Wehrle's Salamander	Plethodon wehrlei
+Amphibian	Weller's Salamander	Plethodon welleri
+Amphibian	Western Narrow-mouthed Toad	Gastrophryne olivacea
+Amphibian	Wood Frog	Lithobates sylvaticus
+Amphibian	Woodhouse's Toad	Anaxyrus woodhousii
+Amphibian	Western Red-backed Salamander	Plethodon vehiculum
+Amphibian	Western Slimy Salamander	Plethodon albagula
+Amphibian	White-spotted Slimy Salamander	Plethodon cylindraceus
+Amphibian	West Virginia Spring Salamander	Gyrinophilus subterraneus
+Amphibian	Wyoming Toad	Anaxyrus baxteri
+Amphibian	Yonahlossee Salamander	Plethodon yonahlossee
+Amphibian	Yosemite Toad	Anaxyrus canorus
+Bird	American Black Duck	Anas rubripes
+Bird	Abert's Towhee	Pipilo aberti
+Bird	Acadian Flycatcher	Empidonax virescens
+Bird	Acorn Woodpecker	Melanerpes formicivorus
+Bird	Alder Flycatcher	Empidonax alnorum
+Bird	Allen's Hummingbird	Selasphorus sasin
+Bird	Altamira Oriole	Icterus gularis
+Bird	American Avocet	Recurvirostra americana
+Bird	American Bittern	Botaurus lentiginosus
+Bird	American Coot	Fulica americana
+Bird	American Crow	Corvus brachyrhynchos
+Bird	American Dipper	Cinclus mexicanus
+Bird	American Flamingo	Phoenicopterus ruber
+Bird	American Goldfinch	Carduelis tristis
+Bird	American Kestrel	Falco sparverius
+Bird	American Oystercatcher	Haematopus palliatus
+Bird	American Pipit	Anthus rubescens
+Bird	American Redstart	Setophaga ruticilla
+Bird	American Robin	Turdus migratorius
+Bird	American Wigeon	Anas americana
+Bird	American Woodcock	Scolopax minor
+Bird	Anhinga	Anhinga anhinga
+Bird	Anna's Hummingbird	Calypte anna
+Bird	Antillean Nighthawk	Chordeiles gundlachii
+Bird	Aplomado Falcon	Falco femoralis
+Bird	Arctic Tern	Sterna paradisaea
+Bird	Arizona Woodpecker	Picoides arizonae
+Bird	Ashy Storm-petrel	Oceanodroma homochroa
+Bird	Brant	Branta bernicla
+Bird	Ash-throated Flycatcher	Myiarchus cinerascens
+Bird	Atlantic Puffin	Fratercula arctica
+Bird	American Tree Sparrow	Spizella arborea
+Bird	American Three-toed Woodpecker	Picoides dorsalis
+Bird	Audubon's Oriole	Icterus graduacauda
+Bird	American White Pelican	Pelecanus erythrorhynchos
+Bird	Bachman's Sparrow	Aimophila aestivalis
+Bird	Barred Owl	Strix varia
+Bird	Bald Eagle	Haliaeetus leucocephalus
+Bird	Barrow's Goldeneye	Bucephala islandica
+Bird	Baird's Sparrow	Ammodramus bairdii
+Bird	Barn Owl	Tyto alba
+Bird	Bank Swallow	Riparia riparia
+Bird	Baltimore Oriole	Icterus galbula
+Bird	Barn Swallow	Hirundo rustica
+Bird	Black-and-White Warbler	Mniotilta varia
+Bird	Black-billed Cuckoo	Coccyzus erythropthalmus
+Bird	Buff-bellied Hummingbird	Amazilia yucatanensis
+Bird	Buff-breasted Flycatcher	Empidonax fulvifrons
+Bird	Broad-billed Hummingbird	Cynanthus latirostris
+Bird	Black-billed Magpie	Pica hudsonia
+Bird	Black-bellied Plover	Pluvialis squatarola
+Bird	Bay-breasted Warbler	Dendroica castanea
+Bird	Black-bellied Whistling-Duck	Dendrocygna autumnalis
+Bird	Black-backed Woodpecker	Picoides arcticus
+Bird	Black-capped Chickadee	Poecile atricapillus
+Bird	Brown-crested Flycatcher	Myiarchus tyrannulus
+Bird	Black-chinned Hummingbird	Archilochus alexandri
+Bird	Black-crowned Night-heron	Nycticorax nycticorax
+Bird	Buff-collared Nightjar	Caprimulgus ridgwayi
+Bird	Brown-capped Rosy-finch	Leucosticte australis
+Bird	Black-chinned Sparrow	Spizella atrogularis
+Bird	Black-crested Titmouse	Baeolophus atricristatus
+Bird	Black-capped Vireo	Vireo atricapilla
+Bird	Belted Kingfisher	Megaceryle alcyon
+Bird	Bendire's Thrasher	Toxostoma bendirei
+Bird	Bell's Vireo	Vireo bellii
+Bird	Bewick's Wren	Thryomanes bewickii
+Bird	Blue-gray Gnatcatcher	Polioptila caerulea
+Bird	Brown-headed Cowbird	Molothrus ater
+Bird	Black-headed Grosbeak	Pheucticus melanocephalus
+Bird	Brown-headed Nuthatch	Sitta pusilla
+Bird	Blue-headed Vireo	Vireo solitarius
+Bird	Bicknell's Thrush	Catharus bicknelli
+Bird	Blackburnian Warbler	Dendroica fusca
+Bird	Blue Grosbeak	Passerina caerulea
+Bird	Black Guillemot	Cepphus grylle
+Bird	Blue Jay	Cyanocitta cristata
+Bird	Black Oystercatcher	Haematopus bachmani
+Bird	Black Phoebe	Sayornis nigricans
+Bird	Blackpoll Warbler	Dendroica striata
+Bird	California Black Rail	Laterallus jamaicensis coturniculus
+Bird	Black Rail	Laterallus jamaicensis
+Bird	Black Rosy-finch	Leucosticte atrata
+Bird	Black Scoter	Melanitta nigra
+Bird	Black Skimmer	Rynchops niger
+Bird	Black Swift	Cypseloides niger
+Bird	Black Tern	Chlidonias niger
+Bird	Black Turnstone	Arenaria melanocephala
+Bird	Black Vulture	Coragyps atratus
+Bird	Black-necked Stilt	Himantopus mexicanus
+Bird	Bobolink	Dolichonyx oryzivorus
+Bird	Boreal Chickadee	Poecile hudsonica
+Bird	Bonaparte's Gull	Chroicocephalus philadelphia
+Bird	Boreal Owl	Aegolius funereus
+Bird	Botteri's Sparrow	Aimophila botterii
+Bird	Bohemian Waxwing	Bombycilla garrulus
+Bird	Brandt's Cormorant	Phalacrocorax penicillatus
+Bird	Brewer's Blackbird	Euphagus cyanocephalus
+Bird	Brown Creeper	Certhia americana
+Bird	Brown Jay	Cyanocorax morio
+Bird	Brown Noddy	Anous stolidus
+Bird	Bronzed Cowbird	Molothrus aeneus
+Bird	Eastern Brown Pelican	Pelecanus occidentalis carolinensis
+Bird	California Brown Pelican	Pelecanus occidentalis californicus
+Bird	Brown Pelican	Pelecanus occidentalis
+Bird	Brewer's Sparrow	Spizella breweri
+Bird	Bridled Tern	Onychoprion anaethetus
+Bird	Brown Thrasher	Toxostoma rufum
+Bird	Bridled Titmouse	Baeolophus wollweberi
+Bird	Broad-tailed Hummingbird	Selasphorus platycercus
+Bird	Black-throated Blue Warbler	Dendroica caerulescens
+Bird	Black-tailed Gnatcatcher	Polioptila melanura
+Bird	Boat-tailed Grackle	Quiscalus major
+Bird	Blue-throated Hummingbird	Lampornis clemenciae
+Bird	Black-throated Green Warbler	Dendroica virens
+Bird	Band-tailed Pigeon	Patagioenas fasciata
+Bird	Black-throated Sparrow	Amphispiza bilineata
+Bird	Black-throated Gray Warbler	Dendroica nigrescens
+Bird	Bufflehead	Bucephala albeola
+Bird	Bullock's Oriole	Icterus bullockii
+Bird	Florida Burrowing Owl	Athene cunicularia floridana
+Bird	Western Burrowing Owl	Athene cunicularia hypugaea
+Bird	Burrowing Owl	Athene cunicularia
+Bird	Bushtit	Psaltriparus minimus
+Bird	Broad-winged Hawk	Buteo platypterus
+Bird	Blue-winged Teal	Anas discors
+Bird	Black-whiskered Vireo	Vireo altiloquus
+Bird	Blue-winged Warbler	Vermivora pinus
+Bird	Cassin's Auklet	Ptychoramphus aleuticus
+Bird	Cackling Goose	Branta hutchinsii
+Bird	Carolina Chickadee	Poecile carolinensis
+Bird	California Condor	Gymnogyps californianus
+Bird	Cactus Wren	Campylorhynchus brunneicapillus
+Bird	Cattle Egret	Bubulcus ibis
+Bird	Cassin's Finch	Carpodacus cassinii
+Bird	California Gnatcatcher	Polioptila californica
+Bird	California Gull	Larus californicus
+Bird	Calliope Hummingbird	Stellula calliope
+Bird	Cassin's Kingbird	Tyrannus vociferans
+Bird	California Towhee	Pipilo crissalis
+Bird	Canada Goose	Branta canadensis
+Bird	Canyon Towhee	Pipilo fuscus
+Bird	Canvasback	Aythya valisineria
+Bird	Canyon Wren	Catherpes mexicanus
+Bird	California Quail	Callipepla californica
+Bird	Carolina Wren	Thryothorus ludovicianus
+Bird	Cassin's Sparrow	Aimophila cassinii
+Bird	Cave Swallow	Petrochelidon fulva
+Bird	Caspian Tern	Hydroprogne caspia
+Bird	California Thrasher	Toxostoma redivivum
+Bird	Cassin's Vireo	Vireo cassinii
+Bird	Canada Warbler	Wilsonia canadensis
+Bird	Chestnut-backed Chickadee	Poecile rufescens
+Bird	Curve-billed Thrasher	Toxostoma curvirostre
+Bird	Chestnut-collared Longspur	Calcarius ornatus
+Bird	Clay-colored Sparrow	Spizella pallida
+Bird	Cedar Waxwing	Bombycilla cedrorum
+Bird	Cerulean Warbler	Dendroica cerulea
+Bird	Chihuahuan Raven	Corvus cryptoleucus
+Bird	Chipping Sparrow	Spizella passerina
+Bird	Chimney Swift	Chaetura pelagica
+Bird	Chukar	Alectoris chukar
+Bird	Cinnamon Teal	Anas cyanoptera
+Bird	Clark's Grebe	Aechmophorus clarkii
+Bird	Clark's Nutcracker	Nucifraga columbiana
+Bird	Clapper Rail	Rallus longirostris
+Bird	Cliff Swallow	Petrochelidon pyrrhonota
+Bird	Cape May Warbler	Dendroica tigrina
+Bird	Common Black-hawk	Buteogallus anthracinus
+Bird	Common Eider	Somateria mollissima
+Bird	Cordilleran Flycatcher	Empidonax occidentalis
+Bird	Common Ground-dove	Columbina passerina
+Bird	Common Goldeneye	Bucephala clangula
+Bird	Common Grackle	Quiscalus quiscula
+Bird	Cooper's Hawk	Accipiter cooperii
+Bird	Costa's Hummingbird	Calypte costae
+Bird	Couch's Kingbird	Tyrannus couchii
+Bird	Common Loon	Gavia immer
+Bird	Colima Warbler	Vermivora crissalis
+Bird	Common Merganser	Mergus merganser
+Bird	Common Moorhen	Gallinula chloropus
+Bird	Common Murre	Uria aalge
+Bird	Common Myna	Acridotheres tristis
+Bird	Common Nighthawk	Chordeiles minor
+Bird	Connecticut Warbler	Oporornis agilis
+Bird	Common Pauraque	Nyctidromus albicollis
+Bird	Common Poorwill	Phalaenoptilus nuttallii
+Bird	Common Raven	Corvus corax
+Bird	Common Redpoll	Carduelis flammea
+Bird	Common Tern	Sterna hirundo
+Bird	Common Yellowthroat	Geothlypis trichas
+Bird	Crested Caracara	Caracara cheriway
+Bird	Crissal Thrasher	Toxostoma crissale
+Bird	Chestnut-sided Warbler	Dendroica pensylvanica
+Bird	Chuck-will's-widow	Caprimulgus carolinensis
+Bird	Double-crested Cormorant	Phalacrocorax auritus
+Bird	Dusky-capped Flycatcher	Myiarchus tuberculifer
+Bird	Dark-eyed Junco	Junco hyemalis
+Bird	Dickcissel	Spiza americana
+Bird	Dovekie	Alle alle
+Bird	Downy Woodpecker	Picoides pubescens
+Bird	Dusky Flycatcher	Empidonax oberholseri
+Bird	Dusky Grouse	Dendragapus obscurus
+Bird	Dunlin	Calidris alpina
+Bird	Eastern Bluebird	Sialia sialis
+Bird	Eared Grebe	Podiceps nigricollis
+Bird	Eastern Kingbird	Tyrannus tyrannus
+Bird	Eastern Meadowlark	Sturnella magna
+Bird	Eastern Phoebe	Sayornis phoebe
+Bird	Eastern Screech-owl	Megascops asio
+Bird	Eastern Towhee	Pipilo erythrophthalmus
+Bird	Eastern Wood-pewee	Contopus virens
+Bird	Elf Owl	Micrathene whitneyi
+Bird	Elegant Tern	Thalasseus elegans
+Bird	Elegant Trogon	Trogon elegans
+Bird	Eurasian Tree Sparrow	Passer montanus
+Bird	Eurasian Collared-dove	Streptopelia decaocto
+Bird	European Starling	Sturnus vulgaris
+Bird	Eurasian Wigeon	Anas penelope
+Bird	Evening Grosbeak	Coccothraustes vespertinus
+Bird	White-crowned Sparrow	Zonotrichia leucophrys
+Bird	Ferruginous Hawk	Buteo regalis
+Bird	Cactus Ferruginous Pygmy-owl	Glaucidium brasilianum cactorum
+Bird	Ferruginous Pygmy-owl	Glaucidium brasilianum
+Bird	Fish Crow	Corvus ossifragus
+Bird	Field Sparrow	Spizella pusilla
+Bird	Flammulated Owl	Otus flammeolus
+Bird	Florida Scrub-jay	Aphelocoma coerulescens
+Bird	Fox Sparrow	Passerella iliaca
+Bird	Forster's Tern	Sterna forsteri
+Bird	Franklin's Gull	Leucophaeus pipixcan
+Bird	Five-striped Sparrow	Aimophila quinquestriata
+Bird	Fork-tailed Storm-petrel	Oceanodroma furcata
+Bird	Fulvous Whistling-duck	Dendrocygna bicolor
+Bird	Gadwall	Anas strepera
+Bird	Gambel's Quail	Callipepla gambelii
+Bird	Groove-billed Ani	Crotophaga sulcirostris
+Bird	Great Black-backed Gull	Larus marinus
+Bird	Great Blue Heron	Ardea herodias
+Bird	Gull-billed Tern	Gelochelidon nilotica
+Bird	Great Crested Flycatcher	Myiarchus crinitus
+Bird	Golden-crowned Kinglet	Regulus satrapa
+Bird	Gray-crowned Rosy-finch	Leucosticte tephrocotis
+Bird	Golden-crowned Sparrow	Zonotrichia atricapilla
+Bird	Golden-cheeked Warbler	Dendroica chrysoparia
+Bird	Golden-fronted Woodpecker	Melanerpes aurifrons
+Bird	Great Gray Owl	Strix nebulosa
+Bird	Great Horned Owl	Bubo virginianus
+Bird	Gilded Flicker	Colaptes chrysoides
+Bird	Gila Woodpecker	Melanerpes uropygialis
+Bird	Green Kingfisher	Chloroceryle americana
+Bird	Great Kiskadee	Pitangus sulphuratus
+Bird	Glaucous Gull	Larus hyperboreus
+Bird	Glossy Ibis	Plegadis falcinellus
+Bird	Golden Eagle	Aquila chrysaetos
+Bird	Gray Jay	Perisoreus canadensis
+Bird	Gray Kingbird	Tyrannus dominicensis
+Bird	Gray Partridge	Perdix perdix
+Bird	Gray Catbird	Dumetella carolinensis
+Bird	Great Cormorant	Phalacrocorax carbo
+Bird	Great Egret	Ardea alba
+Bird	Green Jay	Cyanocorax yncas
+Bird	Green Parakeet	Aratinga holochlora
+Bird	Gray Flycatcher	Empidonax wrightii
+Bird	Gray Hawk	Buteo nitidus
+Bird	Green Heron	Butorides virescens
+Bird	Attwater's Greater Prairie Chicken	Tympanuchus cupido attwateri
+Bird	Greater Prairie Chicken	Tympanuchus cupido pinnatus
+Bird	Greater Prairie-chicken	Tympanuchus cupido
+Bird	Greater Pewee	Contopus pertinax
+Bird	Greater Roadrunner	Geococcyx californianus
+Bird	Greater Scaup	Aythya marila
+Bird	Greater Sage-grouse	Centrocercus urophasianus
+Bird	Florida Grasshoper Sparrow	Ammodramus savannarum floridanus
+Bird	Grasshopper Sparrow	Ammodramus savannarum
+Bird	Gray Vireo	Vireo vicinior
+Bird	Grace's Warbler	Dendroica graciae
+Bird	Greater Yellowlegs	Tringa melanoleuca
+Bird	Great-tailed Grackle	Quiscalus mexicanus
+Bird	Green-tailed Towhee	Pipilo chlorurus
+Bird	Gunnison Sage-grouse	Centrocercus minimus
+Bird	Tule White-fronted Goose	Anser albifrons elgasi
+Bird	Greater White-fronted Goose	Anser albifrons
+Bird	Glaucous-winged Gull	Larus glaucescens
+Bird	Green-winged Teal	Anas crecca
+Bird	Golden-winged Warbler	Vermivora chrysoptera
+Bird	Gyrfalcon	Falco rusticolus
+Bird	Harlequin Duck	Histrionicus histrionicus
+Bird	Hammond's Flycatcher	Empidonax hammondii
+Bird	Harris's Hawk	Parabuteo unicinctus
+Bird	Harris's Sparrow	Zonotrichia querula
+Bird	Hairy Woodpecker	Picoides villosus
+Bird	Hook-billed Kite	Chondrohierax uncinatus
+Bird	Heermann's Gull	Larus heermanni
+Bird	Herring Gull	Larus argentatus
+Bird	Henslow's Sparrow	Ammodramus henslowii
+Bird	Hepatic Tanager	Piranga flava
+Bird	Hermit Thrush	Catharus guttatus
+Bird	Hermit Warbler	Dendroica occidentalis
+Bird	House Finch	Carpodacus mexicanus
+Bird	Horned Grebe	Podiceps auritus
+Bird	Horned Lark	Eremophila alpestris
+Bird	Hooded Merganser	Lophodytes cucullatus
+Bird	Hooded Oriole	Icterus cucullatus
+Bird	Hoary Redpoll	Carduelis hornemanni
+Bird	House Sparrow	Passer domesticus
+Bird	Hooded Warbler	Wilsonia citrina
+Bird	House Wren	Troglodytes aedon
+Bird	Hutton's Vireo	Vireo huttoni
+Bird	Iceland Gull	Larus glaucoides
+Bird	Indigo Bunting	Passerina cyanea
+Bird	Inca Dove	Columbina inca
+Bird	Island Scrub-jay	Aphelocoma insularis
+Bird	Juniper Titmouse	Baeolophus ridgwayi
+Bird	Kentucky Warbler	Oporornis formosus
+Bird	King Eider	Somateria spectabilis
+Bird	Killdeer	Charadrius vociferus
+Bird	King Rail	Rallus elegans
+Bird	Kirtland's Warbler	Dendroica kirtlandii
+Bird	Lawrence's Goldfinch	Carduelis lawrencei
+Bird	Laughing Gull	Leucophaeus atricilla
+Bird	Lapland Longspur	Calcarius lapponicus
+Bird	Lark Bunting	Calamospiza melanocorys
+Bird	Lark Sparrow	Chondestes grammacus
+Bird	Lazuli Bunting	Passerina amoena
+Bird	Lesser Black-backed Gull	Larus fuscus
+Bird	Long-billed Curlew	Numenius americanus
+Bird	Long-billed Dowitcher	Limnodromus scolopaceus
+Bird	Little Blue Heron	Egretta caerulea
+Bird	Long-billed Thrasher	Toxostoma longirostre
+Bird	Ladder-backed Woodpecker	Picoides scalaris
+Bird	Le Conte's Sparrow	Ammodramus leconteii
+Bird	Le Conte's Thrasher	Toxostoma lecontei
+Bird	Least Bittern	Ixobrychus exilis
+Bird	Least Flycatcher	Empidonax minimus
+Bird	Lesser Goldfinch	Carduelis psaltria
+Bird	Least Grebe	Tachybaptus dominicus
+Bird	Lesser Nighthawk	Chordeiles acutipennis
+Bird	Long-eared Owl	Asio otus
+Bird	Lesser Prairie-chicken	Tympanuchus pallidicinctus
+Bird	Least Sandpiper	Calidris minutilla
+Bird	Lesser Scaup	Aythya affinis
+Bird	Leach's Storm-petrel	Oceanodroma leucorhoa
+Bird	Interior Least Tern	Sternula antillarum athalassos
+Bird	California Least Tern	Sternula antillarum browni
+Bird	Least Tern	Sternula antillarum
+Bird	Lewis's Woodpecker	Melanerpes lewis
+Bird	Lesser Yellowlegs	Tringa flavipes
+Bird	Little Gull	Hydrocoloeus minutus
+Bird	Limpkin	Aramus guarauna
+Bird	Lincoln's Sparrow	Melospiza lincolnii
+Bird	Loggerhead Shrike	Lanius ludovicianus
+Bird	Louisiana Waterthrush	Seiurus motacilla
+Bird	Long-tailed Duck	Clangula hyemalis
+Bird	Lucifer Hummingbird	Calothorax lucifer
+Bird	Lucy's Warbler	Vermivora luciae
+Bird	Masked Booby	Sula dactylatra
+Bird	Mangrove Cuckoo	Coccyzus minor
+Bird	Masked Duck	Nomonyx dominicus
+Bird	Magnificent Frigatebird	Fregata magnificens
+Bird	Marbled Godwit	Limosa fedoa
+Bird	Magnificent Hummingbird	Eugenes fulgens
+Bird	Mallard	Anas platyrhynchos
+Bird	Marbled Murrelet	Brachyramphus marmoratus
+Bird	Manx Shearwater	Puffinus puffinus
+Bird	Magnolia Warbler	Dendroica magnolia
+Bird	Marsh Wren	Cistothorus palustris
+Bird	Mccown's Longspur	Calcarius mccownii
+Bird	Mexican Chickadee	Poecile sclateri
+Bird	Mew Gull	Larus canus
+Bird	Mexican Jay	Aphelocoma ultramarina
+Bird	Merlin	Falco columbarius
+Bird	Macgillivray's Warbler	Oporornis tolmiei
+Bird	Mississippi Kite	Ictinia mississippiensis
+Bird	Mitred Parakeet	Aratinga mitrata
+Bird	Mountain Bluebird	Sialia currucoides
+Bird	Mountain Chickadee	Poecile gambeli
+Bird	Mourning Dove	Zenaida macroura
+Bird	Mottled Duck	Anas fulvigula
+Bird	Montezuma Quail	Cyrtonyx montezumae
+Bird	Monk Parakeet	Myiopsitta monachus
+Bird	Mountain Plover	Charadrius montanus
+Bird	Mountain Quail	Oreortyx pictus
+Bird	Mourning Warbler	Oporornis philadelphia
+Bird	Muscovy Duck	Cairina moschata
+Bird	Mute Swan	Cygnus olor
+Bird	Nashville Warbler	Vermivora ruficapilla
+Bird	Neotropic Cormorant	Phalacrocorax brasilianus
+Bird	Northern Bobwhite	Colinus virginianus
+Bird	Northern Beardless-tyrannulet	Camptostoma imberbe
+Bird	Northern Cardinal	Cardinalis cardinalis
+Bird	Northwestern Crow	Corvus caurinus
+Bird	Northern Flicker	Colaptes auratus
+Bird	Northern Goshawk	Accipiter gentilis
+Bird	Northern Harrier	Circus cyaneus
+Bird	Northern Mockingbird	Mimus polyglottos
+Bird	Northern Parula	Parula americana
+Bird	Northern Pintail	Anas acuta
+Bird	Northern Pygmy-owl (californicum)	Glaucidium gnoma californicum
+Bird	Northern Pygmy-owl (gnoma)	Glaucidium gnoma gnoma
+Bird	Northern Pygmy-owl	Glaucidium gnoma
+Bird	Northern Waterthrush	Seiurus noveboracensis
+Bird	Northern Rough-winged Swallow	Stelgidopteryx serripennis
+Bird	Northern Shoveler	Anas clypeata
+Bird	Northern Shrike	Lanius excubitor
+Bird	Nelson's Sharp-tailed Sparrow	Ammodramus nelsoni
+Bird	Northern Saw-whet Owl	Aegolius acadicus
+Bird	Nuttall's Woodpecker	Picoides nuttallii
+Bird	Oak Titmouse	Baeolophus inornatus
+Bird	Orange-crowned Warbler	Vermivora celata
+Bird	Olive Sparrow	Arremonops rufivirgatus
+Bird	Olive Warbler	Peucedramus taeniatus
+Bird	Orchard Oriole	Icterus spurius
+Bird	Olive-sided Flycatcher	Contopus cooperi
+Bird	Osprey	Pandion haliaetus
+Bird	Ovenbird	Seiurus aurocapilla
+Bird	Painted Bunting	Passerina ciris
+Bird	Pacific Golden-plover	Pluvialis fulva
+Bird	Parasitic Jaeger	Stercorarius parasiticus
+Bird	Pacific Loon	Gavia pacifica
+Bird	Painted Redstart	Myioborus pictus
+Bird	Palm Warbler	Dendroica palmarum
+Bird	Pied-billed Grebe	Podilymbus podiceps
+Bird	Pelagic Cormorant	Phalacrocorax pelagicus
+Bird	Peregrine Falcon	Falco peregrinus
+Bird	Phainopepla	Phainopepla nitens
+Bird	Philadelphia Vireo	Vireo philadelphicus
+Bird	Pine Grosbeak	Pinicola enucleator
+Bird	Pigeon Guillemot	Cepphus columba
+Bird	Pinyon Jay	Gymnorhinus cyanocephalus
+Bird	Piping Plover	Charadrius melodus
+Bird	Pine Siskin	Carduelis pinus
+Bird	Pine Warbler	Dendroica pinus
+Bird	Pileated Woodpecker	Dryocopus pileatus
+Bird	Plain Chachalaca	Ortalis vetula
+Bird	Plumbeous Vireo	Vireo plumbeus
+Bird	Prairie Warbler	Dendroica discolor
+Bird	Prairie Falcon	Falco mexicanus
+Bird	Prothonotary Warbler	Protonotaria citrea
+Bird	Pacific-slope Flycatcher	Empidonax difficilis
+Bird	Purple Finch	Carpodacus purpureus
+Bird	Purple Gallinule	Porphyrio martinica
+Bird	Purple Martin	Progne subis
+Bird	Purple Sandpiper	Calidris maritima
+Bird	Pygmy Nuthatch	Sitta pygmaea
+Bird	Pyrrhuloxia	Cardinalis sinuatus
+Bird	Razorbill	Alca torda
+Bird	Rose-breasted Grosbeak	Pheucticus ludovicianus
+Bird	Ring-billed Gull	Larus delawarensis
+Bird	Red-breasted Merganser	Mergus serrator
+Bird	Red-breasted Nuthatch	Sitta canadensis
+Bird	Red-billed Pigeon	Patagioenas flavirostris
+Bird	Red-breasted Sapsucker	Sphyrapicus ruber
+Bird	Red-bellied Woodpecker	Melanerpes carolinus
+Bird	Ruby-crowned Kinglet	Regulus calendula
+Bird	Red-crowned Parrot	Amazona viridigenalis
+Bird	Rufous-crowned Sparrow	Aimophila ruficeps
+Bird	Red-cockaded Woodpecker	Picoides borealis
+Bird	Red Crossbill	Loxia curvirostra
+Bird	Redhead	Aythya americana
+Bird	Reddish Egret	Egretta rufescens
+Bird	Red Knot	Calidris canutus
+Bird	Red Phalarope	Phalaropus fulicarius
+Bird	Red-eyed Vireo	Vireo olivaceus
+Bird	Red-faced Warbler	Cardellina rubrifrons
+Bird	Rhinoceros Auklet	Cerorhinca monocerata
+Bird	Red-headed Woodpecker	Melanerpes erythrocephalus
+Bird	Rough-legged Hawk	Buteo lagopus
+Bird	Ring-necked Duck	Aythya collaris
+Bird	Ring-necked Pheasant	Phasianus colchicus
+Bird	Red-necked Grebe	Podiceps grisegena
+Bird	Red-naped Sapsucker	Sphyrapicus nuchalis
+Bird	Ross's Goose	Chen rossii
+Bird	Rock Pigeon	Columba livia
+Bird	Rock Sandpiper	Calidris ptilocnemis
+Bird	Roseate Spoonbill	Platalea ajaja
+Bird	Roseate Tern	Sterna dougallii
+Bird	Rock Wren	Salpinctes obsoletus
+Bird	Royal Tern	Thalasseus maximus
+Bird	Red-shouldered Hawk	Buteo lineatus
+Bird	Rose-throated Becard	Pachyramphus aglaiae
+Bird	Red-tailed Hawk	Buteo jamaicensis
+Bird	Ruby-throated Hummingbird	Archilochus colubris
+Bird	Red-throated Loon	Gavia stellata
+Bird	Rusty Blackbird	Euphagus carolinus
+Bird	Ruddy Duck	Oxyura jamaicensis
+Bird	Ruffed Grouse	Bonasa umbellus
+Bird	Rufous Hummingbird	Selasphorus rufus
+Bird	Ruddy Turnstone	Arenaria interpres
+Bird	Red-winged Blackbird	Agelaius phoeniceus
+Bird	Rufous-winged Sparrow	Aimophila carpalis
+Bird	Sandhill Crane	Grus canadensis
+Bird	Saltbush Sparrow	Amphispiza belli canescens
+Bird	Bell's Sage Sparrow	Amphispiza belli belli
+Bird	San Clemente Sage Sparrow	Amphispiza belli clementeae
+Bird	Great Basin Sage Sparrow	Amphispiza belli nevadensis
+Bird	Sage Sparrow	Amphispiza belli
+Bird	Sanderling	Calidris alba
+Bird	Say's Phoebe	Sayornis saya
+Bird	Sandwich Tern	Thalasseus sandvicensis
+Bird	Sage Thrasher	Oreoscoptes montanus
+Bird	Savannah Sparrow	Passerculus sandwichensis
+Bird	Streak-backed Oriole	Icterus pustulatus
+Bird	Short-billed Dowitcher	Limnodromus griseus
+Bird	Sulphur-bellied Flycatcher	Myiodynastes luteiventris
+Bird	Spot-breasted Oriole	Icterus pectoralis
+Bird	Scott's Oriole	Icterus parisorum
+Bird	Scaled Quail	Callipepla squamata
+Bird	Scarlet Tanager	Piranga olivacea
+Bird	Short-eared Owl	Asio flammeus
+Bird	Semipalmated Plover	Charadrius semipalmatus
+Bird	Seaside Sparrow	Ammodramus maritimus
+Bird	Sedge Wren	Cistothorus platensis
+Bird	Shiny Cowbird	Molothrus bonariensis
+Bird	Smith's Longspur	Calcarius pictus
+Bird	Snow Bunting	Plectrophenax nivalis
+Bird	Snowy Egret	Egretta thula
+Bird	Snow Goose	Chen caerulescens
+Bird	Snail Kite	Rostrhamus sociabilis
+Bird	Snowy Owl	Bubo scandiacus
+Bird	Western Snowy Plover	Charadrius nivosus nivosus
+Bird	Snowy Plover	Charadrius nivosus
+Bird	Sooty Grouse	Dendragapus fuliginosus
+Bird	Sora	Porzana carolina
+Bird	Solitary Sandpiper	Tringa solitaria
+Bird	Song Sparrow	Melospiza melodia
+Bird	Sooty Tern	Onychoprion fuscatus
+Bird	Spotted Dove	Streptopelia chinensis
+Bird	Spruce Grouse	Falcipennis canadensis
+Bird	Northern Spotted Owl	Strix occidentalis caurina
+Bird	Mexican Spotted Owl	Strix occidentalis lucida
+Bird	California Spotted Owl	Strix occidentalis occidentalis
+Bird	Spotted Owl	Strix occidentalis
+Bird	Sprague's Pipit	Anthus spragueii
+Bird	Spotted Sandpiper	Actitis macularius
+Bird	Spotted Towhee	Pipilo maculatus
+Bird	Sharp-shinned Hawk	Accipiter striatus
+Bird	Saltmarsh Sharp-tailed Sparrow	Ammodramus caudacutus
+Bird	Scissor-tailed Flycatcher	Tyrannus forficatus
+Bird	Prairie Sharp-tailed Grouse	Tympanuchus phasianellus campestris
+Bird	Columbian Sharp-tailed Grouse	Tympanuchus phasianellus columbianus
+Bird	Plains Sharp-tailed Grouse	Tympanuchus phasianellus jamesi
+Bird	Sharp-tailed Grouse	Tympanuchus phasianellus
+Bird	Short-tailed Hawk	Buteo brachyurus
+Bird	Steller's Jay	Cyanocitta stelleri
+Bird	Swallow-tailed Kite	Elanoides forficatus
+Bird	Stilt Sandpiper	Calidris himantopus
+Bird	Surfbird	Aphriza virgata
+Bird	Surf Scoter	Melanitta perspicillata
+Bird	Summer Tanager	Piranga rubra
+Bird	Swainson's Hawk	Buteo swainsoni
+Bird	Swamp Sparrow	Melospiza georgiana
+Bird	Swainson's Thrush	Catharus ustulatus
+Bird	Swainson's Warbler	Limnothlypis swainsonii
+Bird	Tamaulipas Crow	Corvus imparatus
+Bird	Thick-billed Kingbird	Tyrannus crassirostris
+Bird	Thick-billed Murre	Uria lomvia
+Bird	Tennessee Warbler	Vermivora peregrina
+Bird	Thayer's Gull	Larus thayeri
+Bird	Townsend's Solitaire	Myadestes townsendi
+Bird	Townsend's Warbler	Dendroica townsendi
+Bird	Tricolored Blackbird	Agelaius tricolor
+Bird	Tree Swallow	Tachycineta bicolor
+Bird	Tricolored Heron	Egretta tricolor
+Bird	Tropical Kingbird	Tyrannus melancholicus
+Bird	Tropical Parula	Parula pitiayumi
+Bird	Trumpeter Swan	Cygnus buccinator
+Bird	Tufted Puffin	Fratercula cirrhata
+Bird	Tufted Titmouse	Baeolophus bicolor
+Bird	Turkey Vulture	Cathartes aura
+Bird	Upland Sandpiper	Bartramia longicauda
+Bird	Varied Bunting	Passerina versicolor
+Bird	Vaux's Swift	Chaetura vauxi
+Bird	Varied Thrush	Ixoreus naevius
+Bird	Violet-crowned Hummingbird	Amazilia violiceps
+Bird	Veery	Catharus fuscescens
+Bird	Vermilion Flycatcher	Pyrocephalus rubinus
+Bird	Verdin	Auriparus flaviceps
+Bird	Oregon Vesper Sparrow	Pooecetes gramineus affinis
+Bird	Vesper Sparrow	Pooecetes gramineus
+Bird	Violet-green Swallow	Tachycineta thalassina
+Bird	Virginia Rail	Rallus limicola
+Bird	Virginia's Warbler	Vermivora virginiae
+Bird	Wandering Tattler	Tringa incana
+Bird	Warbling Vireo	Vireo gilvus
+Bird	White-breasted Nuthatch	Sitta carolinensis
+Bird	White-crowned Pigeon	Patagioenas leucocephala
+Bird	White-collared Seedeater	Sporophila torqueola
+Bird	Western Bluebird	Sialia mexicana
+Bird	Western Grebe	Aechmophorus occidentalis
+Bird	Western Gull	Larus occidentalis
+Bird	Western Kingbird	Tyrannus verticalis
+Bird	Western Meadowlark	Sturnella neglecta
+Bird	Western Sandpiper	Calidris mauri
+Bird	Western Scrub-jay	Aphelocoma californica
+Bird	Western Screech-owl	Megascops kennicottii
+Bird	Western Tanager	Piranga ludoviciana
+Bird	White-eyed Vireo	Vireo griseus
+Bird	Worm-eating Warbler	Helmitheros vermivorum
+Bird	Western Wood-pewee	Contopus sordidulus
+Bird	White-faced Ibis	Plegadis chihi
+Bird	Whooping Crane	Grus americana
+Bird	White Ibis	Eudocimus albus
+Bird	Whimbrel	Numenius phaeopus
+Bird	Whiskered Screech-owl	Megascops trichopsis
+Bird	Tundra Swan	Cygnus columbianus
+Bird	White-headed Woodpecker	Picoides albolarvatus
+Bird	Willow Flycatcher	Empidonax traillii
+Bird	Willet	Tringa semipalmata
+Bird	Wilson's Phalarope	Phalaropus tricolor
+Bird	Wilson's Plover	Charadrius wilsonia
+Bird	Williamson's Sapsucker	Sphyrapicus thyroideus
+Bird	Wilson's Snipe	Gallinago delicata
+Bird	Mexican Turkey	Meleagris gallopavo mexicana
+Bird	Merriam's Turkey	Meleagris gallopavo merriami
+Bird	Wild Turkey	Meleagris gallopavo
+Bird	Wilson's Warbler	Wilsonia pusilla
+Bird	Winter Wren	Troglodytes troglodytes
+Bird	Wood Duck	Aix sponsa
+Bird	Wood Stork	Mycteria americana
+Bird	Wood Thrush	Hylocichla mustelina
+Bird	Whip-poor-will	Caprimulgus vociferus
+Bird	Wrentit	Chamaea fasciata
+Bird	White-tipped Dove	Leptotila verreauxi
+Bird	White-tailed Hawk	Buteo albicaudatus
+Bird	White-tailed Kite	Elanus leucurus
+Bird	White-tailed Ptarmigan	Lagopus leucura
+Bird	White-throated Sparrow	Zonotrichia albicollis
+Bird	White-throated Swift	Aeronautes saxatalis
+Bird	White-winged Crossbill	Loxia leucoptera
+Bird	White-winged Dove	Zenaida asiatica
+Bird	White-winged Scoter	Melanitta fusca
+Bird	Xantus's Murrelet	Synthliboramphus hypoleucus
+Bird	Yellow-breasted Chat	Icteria virens
+Bird	Yellow-billed Cuckoo	Coccyzus americanus
+Bird	Yellow-bellied Flycatcher	Empidonax flaviventris
+Bird	Yellow-billed Magpie	Pica nuttalli
+Bird	Yellow-bellied Sapsucker	Sphyrapicus varius
+Bird	Yellow-crowned Night-heron	Nyctanassa violacea
+Bird	Yellow-eyed Junco	Junco phaeonotus
+Bird	Yellow Rail	Coturnicops noveboracensis
+Bird	Yellow-footed Gull	Larus livens
+Bird	Yellow-green Vireo	Vireo flavoviridis
+Bird	Yellow-headed Blackbird	Xanthocephalus xanthocephalus
+Bird	Yellow-rumped Warbler	Dendroica coronata
+Bird	Yellow-throated Vireo	Vireo flavifrons
+Bird	Yellow-throated Warbler	Dendroica dominica
+Bird	Yellow Warbler	Dendroica petechia
+Bird	Zone-tailed Hawk	Buteo albonotatus
+Mammal	Florida Black Bear	Ursus americanus floridanus
+Mammal	Louisiana Black Bear	Ursus americanus luteolus
+Mammal	American Black Bear	Ursus americanus
+Mammal	Allen's Big-eared Bat	Idionycteris phyllotis
+Mammal	Kaibab Squirrel	Sciurus aberti kaibabensis
+Mammal	Abert's Squirrel	Sciurus aberti
+Mammal	Arizona Cotton Rat	Sigmodon arizonae cienegae
+Mammal	Colorado River Cotton Rat	Sigmodon arizonae plenus
+Mammal	Arizona Cotton Rat	Sigmodon arizonae
+Mammal	Arctic Shrew	Sorex arcticus
+Mammal	Arizona Gray Squirrel	Sciurus arizonensis
+Mammal	American Hog-nosed Skunk	Conepatus leuconotus
+Mammal	Agile Kangaroo Rat	Dipodomys agilis
+Mammal	Alpine Chipmunk	Tamias alpinus
+Mammal	Allegheny Woodrat	Neotoma magister
+Mammal	American Badger	Taxidea taxus
+Mammal	American Beaver	Castor canadensis
+Mammal	American Marten	Martes americana
+Mammal	American Mink	Neovison vison
+Mammal	Antelope Jackrabbit	Lepus alleni
+Mammal	Appalachian Cottontail	Sylvilagus obscurus
+Mammal	Attwater's Pocket Gopher	Geomys attwateri
+Mammal	Arizona Pocket Mouse	Perognathus amplus
+Mammal	American Pygmy Shrew	Sorex hoyi
+Mammal	Arizona Myotis	Myotis occultus
+Mammal	Arizona Shrew	Sorex arizonae
+Mammal	American Water Shrew	Sorex palustris
+Mammal	Arizona Woodrat	Neotoma devia
+Mammal	Barbary Sheep	Ammotragus lervia
+Mammal	Big Brown Bat	Eptesicus fuscus
+Mammal	Baja California Pocket Mouse	Chaetodipus rudinoris
+Mammal	Baird's Shrew	Sorex bairdi
+Mammal	Black-eared Deermouse	Peromyscus melanotis
+Mammal	Big-eared Woodrat	Neotoma macrotis
+Mammal	Black-footed Ferret	Mustela nigripes
+Mammal	Broad-footed Mole	Scapanus latimanus
+Mammal	Big Free-tailed Bat	Nyctinomops macrotis
+Mammal	Belding's Ground Squirrel	Urocitellus beldingi
+Mammal	Bighorn Sheep	Ovis canadensis
+Mammal	American Bison	Bison bison
+Mammal	Bobcat	Lynx rufus
+Mammal	Botta's Pocket Gopher	Thomomys bottae
+Mammal	Baird's Pocket Gopher	Geomys breviceps
+Mammal	Bailey's Pocket Mouse	Chaetodipus baileyi
+Mammal	Brown Bear	Ursus arctos
+Mammal	Brush Deermouse	Peromyscus boylii
+Mammal	Brush Rabbit	Sylvilagus bachmani
+Mammal	Brown Rat	Rattus norvegicus
+Mammal	Black-tailed Jackrabbit	Lepus californicus
+Mammal	Banner-tailed Kangaroo Rat	Dipodomys spectabilis
+Mammal	Bushy-tailed Woodrat	Neotoma cinerea
+Mammal	California Deermouse	Peromyscus californicus
+Mammal	Canadian Lynx	Lynx canadensis
+Mammal	Californian Myotis	Myotis californicus
+Mammal	Woodland Caribou	Rangifer tarandus caribou
+Mammal	Caribou	Rangifer tarandus
+Mammal	California Sealion	Zalophus californianus
+Mammal	California Ground Squirrel	Otospermophilus beecheyi
+Mammal	Amargosa Vole	Microtus californicus scirpensis
+Mammal	California Vole	Microtus californicus
+Mammal	Cactus Deermouse	Peromyscus eremicus
+Mammal	California Chipmunk	Tamias obscurus
+Mammal	Cascade Golden-mantled Ground Squirrel	Callospermophilus saturatus
+Mammal	Chihuahuan Grasshopper Mouse	Onychomys arenicola
+Mammal	Cockrum's Gray Shrew	Notiosorex cockrumi
+Mammal	Chital	Axis axis
+Mammal	Chihuahuan Pocket Mouse	Chaetodipus eremicus
+Mammal	Cinereus Shrew	Sorex cinereus
+Mammal	California Kangaroo Rat	Dipodomys californicus
+Mammal	Cliff Chipmunk	Tamias dorsalis
+Mammal	Californian Leaf-nosed Bat	Macrotus californicus
+Mammal	Curasoan Long-nosed Bat	Leptonycteris curasoae
+Mammal	Common Muskrat	Ondatra zibethicus
+Mammal	Canyon Deermouse	Peromyscus crinitus
+Mammal	Colorado Chipmunk	Tamias quadrivittatus
+Mammal	Cotton Deermouse	Peromyscus gossypinus
+Mammal	Coues' Oryzomys	Oryzomys couesi
+Mammal	Collared Peccary	Pecari tajacu
+Mammal	Columbian Ground Squirrel	Urocitellus columbianus
+Mammal	Florida Panther	Puma concolor coryi
+Mammal	Cougar	Puma concolor
+Mammal	Coyote	Canis latrans
+Mammal	Coypu	Myocastor coypus
+Mammal	Camas Pocket Gopher	Thomomys bulbivorus
+Mammal	California Pocket Mouse	Chaetodipus californicus
+Mammal	Crawford's Gray Shrew	Notiosorex crawfordi
+Mammal	Creeping Vole	Microtus oregoni
+Mammal	Coast Mole	Scapanus orarius
+Mammal	Chisel-toothed Kangaroo Rat	Dipodomys microps
+Mammal	Central Texas Pocket Gopher	Geomys texensis
+Mammal	Cave Myotis	Myotis velifer
+Mammal	Desert Cottontail	Sylvilagus audubonii
+Mammal	Desert Woodrat	Neotoma lepida
+Mammal	San Joaquin Valley Wood Rat	Neotoma fuscipes riparia
+Mammal	Dusky-footed Woodrat	Neotoma fuscipes
+Mammal	Fletcher Kangaroo Mouse	Microdipodops megacephalus nasutus
+Mammal	Dark Kangaroo Mouse	Microdipodops megacephalus
+Mammal	Desert Kangaroo Rat	Dipodomys deserti
+Mammal	Douglas's Squirrel	Tamiasciurus douglasii
+Mammal	Desert Pocket Gopher	Geomys arenarius
+Mammal	Desert Pocket Mouse	Chaetodipus penicillatus
+Mammal	Dusky Shrew	Sorex monticolus
+Mammal	Dwarf Shrew	Sorex nanus
+Mammal	Dulzura Kangaroo Rat	Dipodomys simulans
+Mammal	Eastern Chipmunk	Tamias striatus
+Mammal	Eastern Cottontail	Sylvilagus floridanus
+Mammal	Anastasia Island Mole	Scalopus aquaticus anastasae
+Mammal	Presidio Mole	Scalopus aquaticus texanus
+Mammal	Eastern Mole	Scalopus aquaticus
+Mammal	Eastern Pipistrelle	Pipistrellus subflavus
+Mammal	Key Largo Woodrat	Neotoma floridana smalli
+Mammal	Eastern Woodrat	Neotoma floridana
+Mammal	Eastern Gray Squirrel	Sciurus carolinensis
+Mammal	Mangrove Fox Squirrel	Sciurus niger avicennia
+Mammal	Delmarva Fox Squirrel	Sciurus niger cinereus
+Mammal	Eastern Fox Squirrel	Sciurus niger
+Mammal	Eastern Harvest Mouse	Reithrodontomys humulis
+Mammal	Eastern Heather Vole	Phenacomys ungava
+Mammal	Roosevelt Elk	Cervus elaphus roosevelti
+Mammal	Tule Elk	Cervus elaphus nannodes
+Mammal	Elk	Cervus elaphus
+Mammal	Eastern Red Bat	Lasiurus borealis
+Mammal	Ermine	Mustela erminea
+Mammal	Eastern Small-footed Myotis	Myotis leibii
+Mammal	Eastern Spotted Skunk	Spilogale putorius
+Mammal	Elliot's Short-tailed Shrew	Blarina hylophaga
+Mammal	Evening Bat	Nycticeius humeralis
+Mammal	Fallow Deer	Dama dama
+Mammal	Florida Bonneted Bat	Eumops floridanus
+Mammal	Franklin's Ground Squirrel	Poliocitellus franklinii
+Mammal	Fulvous Harvest Mouse	Reithrodontomys fulvescens
+Mammal	Fisher	Martes pennanti
+Mammal	Florida Deermouse	Podomys floridanus
+Mammal	Fog Shrew	Sorex sonomae
+Mammal	Fringed Myotis	Myotis thysanodes
+Mammal	Greater Bonneted Bat	Eumops perotis
+Mammal	Great Basin Pocket Mouse	Perognathus parvus
+Mammal	Gray-collared Chipmunk	Tamias cinereicollis
+Mammal	Gulf Coast Kangaroo Rat	Dipodomys compactus
+Mammal	Gemsbok	Oryx gazella
+Mammal	Gray-footed Chipmunk	Tamias canipes
+Mammal	Guadalupe Fur Seal	Arctocephalus townsendi
+Mammal	Giant Kangaroo Rat	Dipodomys ingens
+Mammal	San Bernardino Golden-mantled Ground Squirrel	Callospermophilus lateralis bernardinus
+Mammal	Golden-mantled Ground Squirrel	Callospermophilus lateralis
+Mammal	Golden Mouse	Ochrotomys nuttalli
+Mammal	Gunnison's Prairie Dog	Cynomys gunnisoni
+Mammal	Gray Fox	Urocyon cinereoargenteus
+Mammal	Gray Myotis	Myotis grisescens
+Mammal	Mexican Wolf	Canis lupus baileyi
+Mammal	Red Wolf	Canis lupus rufus
+Mammal	Gray Wolf	Canis lupus
+Mammal	Gray-tailed Vole	Microtus canicaudus
+Mammal	Harbor Seal	Phoca vitulina
+Mammal	Harris' Antelope Squirrel	Ammospermophilus harrisii
+Mammal	Hispid Cotton Rat	Sigmodon hispidus
+Mammal	Himalayan Tahr	Hemitragus jemlahicus
+Mammal	Morro Bay Kangaroo Rat	Dipodomys heermanni morroensis
+Mammal	Heermann's Kangaroo Rat	Dipodomys heermanni
+Mammal	Hoary Bat	Lasiurus cinereus
+Mammal	Hopi Chipmunk	Tamias rufus
+Mammal	Hoary Marmot	Marmota caligata
+Mammal	House Mouse	Mus musculus
+Mammal	Horse	Equus caballus
+Mammal	Hooded Skunk	Mephitis macroura
+Mammal	Hispid Pocket Mouse	Chaetodipus hispidus
+Mammal	Hairy-tailed Mole	Parascalops breweri
+Mammal	Northern Idaho Ground Squirrel	Urocitellus brunneus brunneus
+Mammal	Southern Idaho Ground Squirrel	Urocitellus brunneus endemicus
+Mammal	Idaho Ground Squirrel	Urocitellus brunneus
+Mammal	Indiana Myotis	Myotis sodalis
+Mammal	Inyo Shrew	Sorex tenellus
+Mammal	Idaho Pocket Gopher	Thomomys idahoensis
+Mammal	Santa Catalina Island Fox	Urocyon littoralis catalinae
+Mammal	San Nicolas Island Fox	Urocyon littoralis dickeyi
+Mammal	San Clemente Island Fox	Urocyon littoralis clementae
+Mammal	Santa Rosa Island Fox	Urocyon littoralis santarosae
+Mammal	Santa Cruz Island Fox	Urocyon littoralis santacruzae
+Mammal	Island Fox	Urocyon littoralis
+Mammal	Gulf Coast Jaguarundi	Puma yagouaroundi cacomitli
+Mammal	Jaguarundi	Puma yagouarondi
+Mammal	Jaguar	Panthera onca
+Mammal	Jamaican Fruit-eating Bat	Artibeus jamaicensis
+Mammal	Keen's Myotis	Myotis keenii
+Mammal	Kit Fox-San Joaquin Valley Population	Vulpes macrotis mutica
+Mammal	Kit Fox	Vulpes macrotis
+Mammal	Knox Jones's Pocket Gopher	Geomys knoxjonesi
+Mammal	Little Brown Myotis	Myotis lucifugus
+Mammal	White Mountains Chipmunk	Tamias minimus arizonensis
+Mammal	Chuska Mountain Chipmunk	Tamias minimus chuskaensis
+Mammal	Penasco Chipmunk	Tamias minimus atristriatus
+Mammal	Least Chipmunk	Tamias minimus
+Mammal	Long-eared Myotis	Myotis evotis
+Mammal	Least Weasel	Mustela nivalis
+Mammal	Long-legged Myotis	Myotis volans
+Mammal	Mt. Pinos Lodgepole Chipmunk	Tamias speciosus callipeplus
+Mammal	Lodgepole Chipmunk	Tamias speciosus
+Mammal	Long-eared Chipmunk	Tamias quadrimaculatus
+Mammal	Pacific Pocket Mouse	Perognathus longimembris pacificus
+Mammal	Little Pocket Mouse	Perognathus longimembris
+Mammal	Long-tailed Pocket Mouse	Chaetodipus formosus
+Mammal	Long-tailed Shrew	Sorex dispar
+Mammal	White-bellied Vole	Microtus longicaudus leucophaeus
+Mammal	Long-tailed Vole	Microtus longicaudus
+Mammal	Long-tailed Weasel	Mustela frenata
+Mammal	Key Oryzomys	Oryzomys palustris natator
+Mammal	Marsh Oryzomys	Oryzomys palustris
+Mammal	Lower Keys Rabbit	Sylvilagus palustris hefneri
+Mammal	Marsh Rabbit	Sylvilagus palustris
+Mammal	Merriam's Deermouse	Peromyscus merriami
+Mammal	Merriam's Shrew	Sorex merriami
+Mammal	Mexican Ground Squirrel	Ictidomys mexicanus
+Mammal	Duke's Salt Marsh Vole	Microtus pennsylvanicus dukecampbelli
+Mammal	Meadow Vole	Microtus pennsylvanicus
+Mammal	Mexican Woodrat	Neotoma mexicana
+Mammal	Mexican Fox Squirrel	Sciurus nayaritensis
+Mammal	Mexican Free-tailed Bat	Tadarida brasiliensis
+Mammal	Merriam's Ground Squirrel	Urocitellus canus
+Mammal	Mogollon Vole	Microtus mogollonensis
+Mammal	Meadow Jumping Mouse	Zapus hudsonius
+Mammal	Merriam's Kangaroo Rat	Dipodomys merriami
+Mammal	Mexican Long-nosed Bat	Leptonycteris nivalis
+Mammal	Mt. Lyell Shrew	Sorex lyelli
+Mammal	Mexican Long-tongued Bat	Choeronycteris mexicana
+Mammal	Merriam's Chipmunk	Tamias merriami
+Mammal	Mountain Cottontail	Sylvilagus nuttallii
+Mammal	Mountain Goat	Oreamnos americanus
+Mammal	Moose	Alces americanus
+Mammal	Mohave Ground Squirrel	Xerospermophilus mohavensis
+Mammal	Arizona Montane Vole	Microtus montanus arizonensis
+Mammal	Pahranagat Valley Vole	Microtus montanus fucosus
+Mammal	Ash Meadows Montane Vole	Microtus montanus nevadensis
+Mammal	Montane Vole	Microtus montanus
+Mammal	Mountain Pocket Gopher	Thomomys monticola
+Mammal	Merriam's Pocket Mouse	Perognathus merriami
+Mammal	Marsh Shrew	Sorex bendirii
+Mammal	Mexican Spiny Pocket Mouse	Liomys irroratus
+Mammal	Mule Deer	Odocoileus hemionus
+Mammal	North American Deermouse	Peromyscus maniculatus
+Mammal	North American Least Shrew	Cryptotis parva
+Mammal	North American Porcupine	Erethizon dorsata
+Mammal	North American River Otter	Lontra canadensis
+Mammal	Nelson's Antelope Squirrel	Ammospermophilus nelsoni
+Mammal	North American Water Vole	Microtus richardsoni
+Mammal	Nine-banded Armadillo	Dasypus novemcinctus
+Mammal	Northern Baja Deermouse	Peromyscus fraterculus
+Mammal	Northern Bog Lemming	Synaptomys borealis
+Mammal	Northern Elephant Seal	Mirounga angustirostris
+Mammal	Narrow-faced Kangaroo Rat	Dipodomys venustus
+Mammal	Northern Fur Seal	Callorhinus ursinus
+Mammal	San Bernardino Flying Squirrel	Glaucomys sabrinus californicus
+Mammal	Virginia Northern Flying Squirrel	Glaucomys sabrinus fuscus
+Mammal	Carolina Northern Flying Squirrel	Glaucomys sabrinus coloratus
+Mammal	Northern Flying Squirrel	Glaucomys sabrinus
+Mammal	New England Cottontail	Sylvilagus transitionalis
+Mammal	Northern Grasshopper Mouse	Onychomys leucogaster
+Mammal	New Mexico Shrew	Sorex neomexicanus
+Mammal	Northwestern Deermouse	Peromyscus keeni
+Mammal	Northern Myotis	Myotis septentrionalis
+Mammal	Northern Short-tailed Shrew	Blarina brevicauda
+Mammal	Northern Pocket Gopher	Thomomys talpoides
+Mammal	Nelson's Pocket Mouse	Chaetodipus nelsoni
+Mammal	Northern Pygmy Mouse	Baiomys taylori
+Mammal	Northern Rock Deermouse	Peromyscus nasutus
+Mammal	Northern Yellow Bat	Lasiurus intermedius
+Mammal	Olive-backed Pocket Mouse	Perognathus fasciatus
+Mammal	Ocelot	Leopardus pardalis
+Mammal	Ord's Kangaroo Rat	Dipodomys ordii
+Mammal	Choctawhatchee Beach Deermouse	Peromyscus polionotus allophrys
+Mammal	Anastasia Beach Deermouse	Peromyscus polionotus phasma
+Mammal	Santa Rosa Beach Deermouse	Peromyscus polionotus leucocephalus
+Mammal	Alabama Beach Deermouse	Peromyscus polionotus ammobates
+Mammal	Southeast Beach Deermouse	Peromyscus polionotus niveiventris
+Mammal	St. Andrews Beach Deermouse	Peromyscus polionotus peninsularis
+Mammal	Perdido Key Beach Deermouse	Peromyscus polionotus trissyllepsis
+Mammal	Oldfield Deermouse	Peromyscus polionotus
+Mammal	Olympic Marmot	Marmota olympus
+Mammal	Salt Marsh Ornate Shrew	Sorex ornatus sinuosus
+Mammal	Suisun Shrew	Sorex ornatus sinuosus
+Mammal	Buena Vista Lake Shrew	Sorex ornatus relictus
+Mammal	Monterey Ornate Shrew	Sorex ornatus salarius
+Mammal	Santa Catalina Shrew	Sorex ornatus willetti
+Mammal	Ornate Shrew	Sorex ornatus
+Mammal	Pallid Bat	Antrozous pallidus
+Mammal	Palmer's Chipmunk	Tamias palmeri
+Mammal	Pacific Shrew (cascadensis)	Sorex pacificus cascadensis
+Mammal	Pacific Shrew (pacificus)	Sorex pacificus pacificus
+Mammal	Pacific Shrew	Sorex pacificus
+Mammal	Preble's Shrew	Sorex preblei
+Mammal	Pocketed Free-tailed Bat	Nyctinomops femorosaccus
+Mammal	Peters's Ghost-faced Bat	Mormoops megalophylla
+Mammal	Piute Ground Squirrel	Urocitellus mollis
+Mammal	Plains Harvest Mouse	Reithrodontomys montanus
+Mammal	Palo Duro Deermouse	Peromyscus truei comanche
+Mammal	Pinon Deermouse	Peromyscus truei
+Mammal	American Pika	Ochotona princeps
+Mammal	Pacific Jumping Mouse	Zapus trinotatus
+Mammal	Pale Kangaroo Mouse	Microdipodops pallidus
+Mammal	Panamint Kangaroo Rat	Dipodomys panamintinus
+Mammal	Pallas's Mastiff Bat	Molossus molossus
+Mammal	Panamint Chipmunk	Tamias panamintinus
+Mammal	Plains Pocket Gopher	Geomys bursarius
+Mammal	Plains Pocket Mouse	Perognathus flavescens
+Mammal	Sonoran Pronghorn	Antilocapra americana sonoriensis
+Mammal	Pronghorn	Antilocapra americana
+Mammal	Prairie Shrew	Sorex haydeni
+Mammal	Prairie Vole	Microtus ochrogaster taylori
+Mammal	Prairie Vole	Microtus ochrogaster
+Mammal	Black-tailed Prairie Dog	Cynomys ludovicianus
+Mammal	Pygmy Rabbit (Columbia Basin Population)	Brachylagus idahoensis pop. 2
+Mammal	Pygmy Rabbit	Brachylagus idahoensis
+Mammal	Raccoon	Procyon lotor
+Mammal	Rafinesque's Big-eared Bat	Corynorhinus rafinesquii
+Mammal	Red-bellied Squirrel	Sciurus aureogaster
+Mammal	Sierra Nevada Red Fox	Vulpes vulpes necator
+Mammal	Red Fox	Vulpes vulpes
+Mammal	Mt. Graham Red Squirrel	Tamiasciurus hudsonicus grahamensis
+Mammal	Red Squirrel	Tamiasciurus hudsonicus
+Mammal	Richardson's Ground Squirrel	Urocitellus richardsonii
+Mammal	Ringtail	Bassariscus astutus
+Mammal	Robust Cottontail	Sylvilagus robustus
+Mammal	Roof Rat	Rattus rattus
+Mammal	Rock Squirrel	Otospermophilus variegatus
+Mammal	Southern Rock Vole	Microtus chrotorrhinus carolinensis
+Mammal	Rock Vole	Microtus chrotorrhinus
+Mammal	Rock Pocket Mouse	Chaetodipus intermedius
+Mammal	Red-tailed Chipmunk	Tamias ruficaudus
+Mammal	Round-tailed Ground Squirrel	Xerospermophilus tereticaudus
+Mammal	Round-tailed Muskrat	Neofiber alleni
+Mammal	Red Tree Vole	Arborimus longicaudus
+Mammal	South American Coati	Nasua narica
+Mammal	Saxicoline Deermouse	Peromyscus gratus
+Mammal	Sambar	Rusa unicolor
+Mammal	Sagebrush Vole	Lemmiscus curtatus
+Mammal	Southern Bog Lemming	Synaptomys cooperi
+Mammal	San Diego Pocket Mouse	Chaetodipus fallax
+Mammal	Seminole Bat	Lasiurus seminolus
+Mammal	Southeastern Pocket Gopher	Geomys pinetis
+Mammal	Southeastern Myotis	Myotis austroriparius
+Mammal	Sea Otter	Enhydra lutris
+Mammal	Mountain Beaver pacifica	Aplodontia rufa pacifica
+Mammal	Sierra Nevada Mountain Beaver	Aplodontia rufa californica
+Mammal	Mountain Beaver humboldtiana	Aplodontia rufa humboldtiana
+Mammal	Point Arena Mountain Beaver	Aplodontia rufa nigra
+Mammal	Olympic Mountain Beaver	Aplodontia rufa olympica
+Mammal	Point Reyes Mountain Beaver	Aplodontia rufa phaea
+Mammal	Coastal Mountain Beaver	Aplodontia rufa rufa
+Mammal	Sewellel	Aplodontia rufa
+Mammal	Southern Flying Squirrel	Glaucomys volans
+Mammal	Southern Grasshopper Mouse	Onychomys torridus
+Mammal	Spotted Ground Squirrel	Xerospermophilus spilosoma
+Mammal	Silver-haired Bat	Lasionycteris noctivagans
+Mammal	Shadow Chipmunk	Tamias senex
+Mammal	Shrew-mole	Neurotrichus gibbsii
+Mammal	Siskiyou Chipmunk	Tamias siskiyou
+Mammal	Sika	Cervus nippon
+Mammal	Fresno Kangaroo Rat	Dipodomys nitratoides exilis
+Mammal	Tipton Kangaroo Rat	Dipodomys nitratoides nitratoides
+Mammal	San Joaquin Kangaroo Rat	Dipodomys nitratoides
+Mammal	San Joaquin Pocket Mouse	Perognathus inornatus
+Mammal	Stephen's Kangaroo Rat	Dipodomys stephensi
+Mammal	Silky Pocket Mouse	Perognathus flavus
+Mammal	Salt-marsh Harvest Mouse	Reithrodontomys raviventris
+Mammal	Smoky Shrew	Sorex fumeus
+Mammal	Snowshoe Hare	Lepus americanus
+Mammal	Star-nosed Mole	Condylura cristata
+Mammal	Sonoma Chipmunk	Tamias sonomae
+Mammal	Southern Short-tailed Shrew	Blarina carolinensis
+Mammal	Spotted Bat	Euderma maculatum
+Mammal	Animas Southern Pocket Gopher	Thomomys umbrinus emotus
+Mammal	Southern Pocket Gopher (intermedius)	Thomomys umbrinus intermedius
+Mammal	Southern Pocket Gopher	Thomomys umbrinus
+Mammal	Spiny Pocket Mouse	Chaetodipus spinatus
+Mammal	Strecker's Pocket Gopher	Geomys streckeri
+Mammal	Southeastern Shrew	Sorex longirostris
+Mammal	Southern Plains Woodrat	Neotoma micropus
+Mammal	Black Hills Red-backed Vole	Myodes gapperi brevicaudus
+Mammal	Southern Red-backed Vole	Myodes gapperi
+Mammal	Steller Sea Lion	Eumetopias jubatus
+Mammal	Striped Skunk	Mephitis mephitis
+Mammal	Sonoma Tree Vole	Arborimus pomo
+Mammal	Stephen's Woodrat	Neotoma stephensi
+Mammal	Swift Fox	Vulpes velox
+Mammal	Southwestern Myotis	Myotis auriculus
+Mammal	Swamp Rabbit	Sylvilagus aquaticus
+Mammal	Southern Yellow Bat	Lasiurus ega
+Mammal	Texas Antelope Squirrel	Ammospermophilus interpres
+Mammal	Tawny-bellied Cotton Rat	Sigmodon fulviventer
+Mammal	Big-eared Bat (australis)	Corynorhinus townsendii australis
+Mammal	Ozark Big-eared Bat	Corynorhinus townsendii ingens
+Mammal	Pale Lumped-nosed Bat	Corynorhinus townsendii pallescens
+Mammal	Townsend's Western Big-eared Bat	Corynorhinus townsendii townsendii
+Mammal	Virginia Big-eared Bat	Corynorhinus townsendii virginianus
+Mammal	Townsend's Big-eared Bat	Corynorhinus townsendii
+Mammal	Townsend's Ground Squirrel	Urocitellus townsendii
+Mammal	Texas Kangaroo Rat	Dipodomys elator
+Mammal	Thirteen-lined Ground Squirrel	Ictidomys tridecemlineatus
+Mammal	Townsend's Chipmunk	Tamias townsendii
+Mammal	Townsend's Mole	Scapanus townsendii
+Mammal	Shaw Island Vole	Microtus townsendii pugeti
+Mammal	Townsend's Vole	Microtus townsendii
+Mammal	Townsend's Pocket Gopher	Thomomys townsendii
+Mammal	Trowbridge's Shrew	Sorex trowbridgii
+Mammal	Texas Deermouse	Peromyscus attwateri
+Mammal	Texas Pocket Gopher	Geomys personatus
+Mammal	Uinta Ground Squirrel	Urocitellus armatus
+Mammal	Uinta Chipmunk	Tamias umbrinus
+Mammal	Underwood's Mastiff Bat	Eumops underwoodi
+Mammal	Utah Prairie Dog	Cynomys parvidens
+Mammal	Saltmarsh Wandering Shrew	Sorex vagrans halicoetes
+Mammal	Monterey Vagrant Shrew	Sorex vagrans paludivagus
+Mammal	Vagrant Shrew	Sorex vagrans
+Mammal	Virginia Opossum	Didelphis virginiana
+Mammal	White-ankled Deermouse	Peromyscus pectoralis
+Mammal	Washington Ground Squirrel	Urocitellus washingtoni
+Mammal	Wagner's Bonneted Bat	Eumops glaucinus
+Mammal	Western Jumping Mouse	Zapus princeps
+Mammal	Western Pipistrelle	Pipistrellus hesperus
+Mammal	White-eared Pocket Mouse	Perognathus alticolus
+Mammal	White-footed Deermouse	Peromyscus leucopus
+Mammal	White-footed Vole	Arborimus albipes
+Mammal	Western Gray Squirrel	Sciurus griseus
+Mammal	Western Harvest Mouse	Reithrodontomys megalotis
+Mammal	Western Heather Vole	Phenacomys intermedius
+Mammal	Wild Boar	Sus scrofa
+Mammal	West Indian Manatee	Trichechus manatus
+Mammal	Woodland Jumping Mouse	Napaeozapus insignis
+Mammal	Wolverine	Gulo gulo
+Mammal	Woodchuck	Marmota monax
+Mammal	Woodland Vole	Microtus pinetorum
+Mammal	Western Pocket Gopher	Thomomys mazama
+Mammal	Western Red Bat	Lasiurus blossevillii
+Mammal	Western Red-backed Vole	Myodes californicus
+Mammal	Western Small-footed Myotis	Myotis ciliolabrum
+Mammal	White-sided Jackrabbit	Lepus callotis
+Mammal	Western Spotted Skunk	Spilogale gracilis
+Mammal	White-tailed Antelope Squirrel	Ammospermophilus leucurus
+Mammal	Key Deer	Odocoileus virginianus clavium
+Mammal	Columbian White-tailed Deer	Odocoileus virginianus leucurus
+Mammal	Blackbeard Island Deer	Odocoileus virginianus nigribarbis
+Mammal	White-tailed Deer	Odocoileus virginianus
+Mammal	White-throated Woodrat	Neotoma albigula
+Mammal	White-tailed Jackrabbit	Lepus townsendii
+Mammal	White-tailed Prairie Dog	Cynomys leucurus
+Mammal	White-toothed Woodrat	Neotoma leucodon
+Mammal	Western Yellow Bat	Lasiurus xanthinus
+Mammal	Wyoming Pocket Gopher	Thomomys clusius
+Mammal	Wyoming Ground Squirrel (aureus)	Urocitellus elegans aureus
+Mammal	Wyoming Ground Squirrel (elegans)	Urocitellus elegans elegans
+Mammal	Wyoming Ground Squirrel (nevadensis)	Urocitellus elegans nevadensis
+Mammal	Wyoming Ground Squirrel	Urocitellus elegans
+Mammal	Yellow-cheeked Chipmunk	Tamias ochrogenys
+Mammal	Wet Mountains Marmot	Marmota flaviventris notioros
+Mammal	Yellow-bellied Marmot	Marmota flaviventris
+Mammal	Yellow-faced Pocket Gopher	Cratogeomys castanops
+Mammal	Yellow-nosed Cotton Rat	Sigmodon ochrognathus
+Mammal	Yellow-pine Chipmunk (celeris)	Tamias amoenus celeris
+Mammal	Yellow-pine Chipmunk	Tamias amoenus
+Mammal	Yuma Myotis	Myotis yumanensis
+Reptile	Alabama Map Turtle	Graptemys pulchra
+Reptile	American Alligator	Alligator mississippiensis
+Reptile	Arizona Night Lizard	Xantusia arizonae
+Reptile	Aquatic Gartersnake	Thamnophis atratus
+Reptile	Alabama Red-bellied Cooter	Pseudemys alabamensis
+Reptile	Alligator Snapping Turtle	Macrochelys temminckii
+Reptile	Arizona Striped Whiptail	Aspidoscelis arizonae
+Reptile	Arizona Mud Turtle	Kinosternon arizonense
+Reptile	Baird's Ratsnake	Pantherophis bairdi
+Reptile	Baja California Brush Lizard	Urosaurus nigricaudus
+Reptile	Baja California Collared Lizard	Crotaphytus vestigium
+Reptile	Baja California Coachwhip	Coluber fuliginosus
+Reptile	Baja California Ratsnake	Bogertophis rosaliae
+Reptile	Blainville's Horned Lizard	Phrynosoma blainvillii
+Reptile	Broad-headed Skink	Plestiodon laticeps
+Reptile	Black-knobbed Map Turtle	Graptemys nigrinoda
+Reptile	Black Swampsnake	Seminatrix pygaea
+Reptile	Barbour's Map Turtle	Graptemys barbouri
+Reptile	Black-necked Gartersnake	Thamnophis cyrtopsis
+Reptile	Bezy's Night Lizard	Xantusia bezyi
+Reptile	Blunt-nosed Leopard Lizard	Gambelia sila
+Reptile	Bog Turtle	Glyptemys muhlenbergii
+Reptile	Banded Rock Lizard	Petrosaurus mearnsi
+Reptile	Brown Vinesnake	Oxybelis aeneus
+Reptile	Brazos River Watersnake	Nerodia harteri
+Reptile	Brown Watersnake	Nerodia taxispilota
+Reptile	Black-tailed Rattlesnake	Crotalus molossus
+Reptile	Blanding's Turtle	Emydoidea blandingii
+Reptile	Butler's Gartersnake	Thamnophis butleri
+Reptile	Central American Indigo Snake	Drymarchon melanurus
+Reptile	Canyon Lizard	Sceloporus merriami
+Reptile	Chihuahuan Black-headed Snake	Tantilla wilcoxi
+Reptile	Common Chuckwalla	Sauromalus ater
+Reptile	Colorado Checkered Whiptail	Aspidoscelis neotesselata
+Reptile	Common Checkered Whiptail	Aspidoscelis tesselata
+Reptile	Colorado Desert Fringe-toed Lizard	Uma notata
+Reptile	Cat-eyed Snake	Leptodeira septentrionalis
+Reptile	Common Five-lined Skink	Plestiodon fasciatus
+Reptile	Coachella Fringe-toed Lizard	Uma inornata
+Reptile	Checkered Gartersnake	Thamnophis marcianus
+Reptile	Chihuahuan Nightsnake	Hypsiglena jani
+Reptile	Chihuahuan Hook-nosed Snake	Gyalopion canum
+Reptile	Chicken Turtle	Deirochelys reticularia
+Reptile	Common Kingsnake	Lampropeltis getula
+Reptile	Common Lesser Earless Lizard	Holbrookia maculata
+Reptile	California Legless Lizard	Anniella pulchra
+Reptile	Cope's Leopard Lizard	Gambelia copeii
+Reptile	Clark's Spiny Lizard	Sceloporus clarkii
+Reptile	California Mountain Kingsnake	Lampropeltis zonata
+Reptile	Cagle's Map Turtle	Graptemys caglei
+Reptile	Coast Nightsnake	Hypsiglena ochrorhyncha
+Reptile	Coachwhip	Coluber flagellum
+Reptile	Common Gartersnake	Thamnophis sirtalis
+Reptile	Copperhead	Agkistrodon contortrix
+Reptile	Coal Skink	Plestiodon anthracinus
+Reptile	Common Sagebrush Lizard	Sceloporus graciosus
+Reptile	Cottonmouth	Agkistrodon piscivorus
+Reptile	Concho Watersnake	Nerodia paucimaculata
+Reptile	American Crocodile	Crocodylus acutus
+Reptile	Crevice Spiny Lizard	Sceloporus poinsettii
+Reptile	Common Side-blotched Lizard	Uta stansburiana
+Reptile	Common Spotted Whiptail	Aspidoscelis gularis
+Reptile	Canyon Spotted Whiptail	Aspidoscelis burti
+Reptile	Chihuahuan Spotted Whiptail	Aspidoscelis exsanguis
+Reptile	Diamond-backed Terrapin	Malaclemys terrapin
+Reptile	Diamond-backed Watersnake	Nerodia rhombifer
+Reptile	Dekay's Brownsnake	Storeria dekayi
+Reptile	Desert Iguana	Dipsosaurus dorsalis
+Reptile	Desert Nightsnake	Hypsiglena chlorophaea
+Reptile	Desert Tortoise	Gopherus agassizii
+Reptile	Desert Grassland Whiptail	Aspidoscelis uniparens
+Reptile	Desert Horned Lizard	Phrynosoma platyrhinos
+Reptile	Dusty Hog-nosed Snake	Heterodon gloydi
+Reptile	Desert Night Lizard	Xantusia vigilis
+Reptile	Dunes Sagebrush Lizard	Sceloporus arenicolus
+Reptile	Desert Spiny Lizard	Sceloporus magister
+Reptile	Eastern Foxsnake	Pantherophis gloydi
+Reptile	Eastern Ratsnake	Pantherophis alleghaniensis
+Reptile	Eastern Ribbonsnake	Thamnophis sauritus
+Reptile	Florida Box Turtle	Terrapene carolina bauri
+Reptile	Eastern Box Turtle	Terrapene carolina
+Reptile	Eastern Collared Lizard	Crotaphytus collaris
+Reptile	Eastern Diamond-backed Rattlesnake	Crotalus adamanteus
+Reptile	Elegant Earless Lizard	Holbrookia elegans
+Reptile	Eastern Fence Lizard	Sceloporus undulatus
+Reptile	Eastern Glass Lizard	Ophisaurus ventralis
+Reptile	Eastern Hog-nosed Snake	Heterodon platirhinos
+Reptile	Eastern Indigo Snake	Drymarchon couperi
+Reptile	Eastern Mud Turtle	Kinosternon subrubrum
+Reptile	Eastern Musk Turtle	Sternotherus odoratus
+Reptile	Escambia Map Turtle	Graptemys ernsti
+Reptile	Eastern Patch-nosed Snake	Salvadora grahamiae
+Reptile	Eastern Wormsnake	Carphophis amoenus
+Reptile	Florida Crowned Snake	Tantilla relicta
+Reptile	Florida Green Watersnake	Nerodia floridana
+Reptile	Flat-headed Snake	Tantilla gracilis
+Reptile	Florida Brownsnake	Storeria victa
+Reptile	Flattened Musk Turtle	Sternotherus depressus
+Reptile	Four-lined Skink	Plestiodon tetragrammus
+Reptile	Florida Softshell	Apalone ferox
+Reptile	Florida Wormlizard	Rhineura floridana
+Reptile	False Map Turtle	Graptemys pseudogeographica
+Reptile	Florida Red-bellied Cooter	Pseudemys nelsoni
+Reptile	Florida Scrub Lizard	Sceloporus woodi
+Reptile	Florida Sand Skink	Plestiodon reynoldsi
+Reptile	Flat-tailed Horned Lizard	Phrynosoma mcallii
+Reptile	Great Basin Collared Lizard	Crotaphytus bicinctores
+Reptile	Gray-banded Kingsnake	Lampropeltis alterna
+Reptile	Glossy Crayfish Snake	Regina rigida
+Reptile	Graham's Crayfish Snake	Regina grahamii
+Reptile	Gray Checkered Whiptail	Aspidoscelis dixoni
+Reptile	Greater Earless Lizard	Cophosaurus texanus
+Reptile	Goode's Horned Lizard	Phrynosoma goodei
+Reptile	Giant Gartersnake	Thamnophis gigas
+Reptile	Gila Monster	Heloderma suspectum
+Reptile	Gilbert's Skink	Plestiodon gilberti
+Reptile	Glossy Snake	Arizona elegans
+Reptile	Gila Spotted Whiptail	Aspidoscelis flagellicauda
+Reptile	Granite Night Lizard	Xantusia henshawi
+Reptile	Green Ratsnake	Senticolis triaspis
+Reptile	Granite Spiny Lizard	Sceloporus orcutti
+Reptile	Gophersnake	Pituophis catenifer
+Reptile	Gopher Tortoise	Gopherus polyphemus
+Reptile	Great Plains Ratsnake	Pantherophis emoryi
+Reptile	Great Plains Skink	Plestiodon obsoletus
+Reptile	Graphic Spiny Lizard	Sceloporus grammicus
+Reptile	Green Anole	Anolis carolinensis
+Reptile	Gray Ratsnake	Pantherophis spiloides
+Reptile	Greater Short-horned Lizard	Phrynosoma hernandesi
+Reptile	Green Sea Turtle	Chelonia mydas
+Reptile	Harlequin Coralsnake	Micrurus fulvius
+Reptile	Hawksbill Sea Turtle	Eretmochelys imbricata
+Reptile	Island Glass Lizard	Ophisaurus compressus
+Reptile	Island Night Lizard	Xantusia riversiana
+Reptile	Keeled Earless Lizard	Holbrookia propinqua
+Reptile	Kirtland's Snake	Clonophis kirtlandii
+Reptile	Kemp's Ridley Sea Turtle	Lepidochelys kempii
+Reptile	Laredo Striped Whiptail	Aspidoscelis laredoensis
+Reptile	Little Brown Skink	Scincella lateralis
+Reptile	Leatherback Sea Turtle	Dermochelys coriacea
+Reptile	Lined Snake	Tropidoclonion lineatum
+Reptile	Little Striped Whiptail	Aspidoscelis inornata
+Reptile	Loggerhead Musk Turtle	Sternotherus minor
+Reptile	Long-nosed Leopard Lizard	Gambelia wislizenii
+Reptile	Long-nosed Snake	Rhinocheilus lecontei
+Reptile	Loggerhead Sea Turtle	Caretta caretta
+Reptile	Louisiana Pinesnake	Pituophis ruthveni
+Reptile	Long-tailed Brush Lizard	Urosaurus graciosus
+Reptile	Little White Whiptail	Aspidoscelis gypsi
+Reptile	Madrean Alligator Lizard	Elgaria kingii
+Reptile	Massasauga	Sistrurus catenatus
+Reptile	Mexican Black-headed Snake	Tantilla atriceps
+Reptile	Mexican Gartersnake	Thamnophis eques
+Reptile	Mohave Fringe-toed Lizard	Uma scoparia
+Reptile	Mimic Glass Lizard	Ophisaurus mimicus
+Reptile	Mexican Hog-nosed Snake	Heterodon kennerlyi
+Reptile	Milksnake	Lampropeltis triangulum
+Reptile	Many-lined Skink	Plestiodon multivirgatus
+Reptile	Mohave Rattlesnake	Crotalus scutulatus
+Reptile	Mole Skink	Plestiodon egregius
+Reptile	Mexican Plateau Slider	Trachemys gaigeae
+Reptile	Mississippi Green Watersnake	Nerodia cyclopion
+Reptile	Mountain Skink	Plestiodon callicephalus
+Reptile	Northern Alligator Lizard	Elgaria coerulea
+Reptile	North American Racer	Coluber constrictor
+Reptile	Narrow-headed Gartersnake	Thamnophis rufipunctatus
+Reptile	New Mexico Threadsnake	Leptotyphlops dissectus
+Reptile	Northern Map Turtle	Graptemys geographica
+Reptile	New Mexico Whiptail	Aspidoscelis neomexicana
+Reptile	Northern Red-bellied Cooter	Pseudemys rubriventris
+Reptile	Northern Rubber Boa	Charina bottae
+Reptile	Northern Watersnake	Nerodia sipedon
+Reptile	Northwestern Gartersnake	Thamnophis ordinoides
+Reptile	Ornate Box Turtle	Terrapene ornata
+Reptile	Ouachita Map Turtle	Graptemys ouachitensis
+Reptile	Olive Ridley Sea Turtle	Lepidochelys olivacea
+Reptile	Orange-throated Whiptail	Aspidoscelis hyperythra
+Reptile	Ornate Tree Lizard	Urosaurus ornatus
+Reptile	Panamint Alligator Lizard	Elgaria panamintina
+Reptile	Pai Striped Whiptail	Aspidoscelis pai
+Reptile	Painted Turtle	Chrysemys picta
+Reptile	Plains Black-headed Snake	Tantilla nigriceps
+Reptile	Plain-bellied Watersnake	Nerodia erythrogaster
+Reptile	Peninsula Cooter	Pseudemys peninsularis
+Reptile	Plateau Fence Lizard	Sceloporus tristichus
+Reptile	Plains Hog-nosed Snake	Heterodon nasicus
+Reptile	Black Pinesnake	Pituophis melanoleucus lodingi
+Reptile	Florida Pinesnake	Pituophis melanoleucus mugitus
+Reptile	Pinesnake	Pituophis melanoleucus
+Reptile	Plains Gartersnake	Thamnophis radix
+Reptile	Plateau Striped Whiptail	Aspidoscelis velox
+Reptile	Peninsular Leaf-toed Gecko	Phyllodactylus nocticolus
+Reptile	Plateau Spotted Whiptail	Aspidoscelis scalaris
+Reptile	Pascagoula Map Turtle	Graptemys gibbonsi
+Reptile	Pond Slider	Trachemys scripta
+Reptile	Pygmy Rattlesnake	Sistrurus miliarius
+Reptile	Prairie Rattlesnake	Crotalus viridis
+Reptile	Prairie Skink	Plestiodon septentrionalis
+Reptile	Pygmy Short-horned Lizard	Phrynosoma douglasii
+Reptile	Pine Woods Littersnake	Rhadinaea flavilata
+Reptile	Queensnake	Regina septemvittata
+Reptile	Rainbow Snake	Farancia erytrogramma
+Reptile	Rainbow Whiptail	Cnemidophorus lemniscatus
+Reptile	Reticular Banded Gecko	Coleonyx reticulatus
+Reptile	Rose-bellied Lizard	Sceloporus variabilis
+Reptile	Razor-backed Musk Turtle	Sternotherus carinatus
+Reptile	Red-bellied Mudsnake	Farancia abacura
+Reptile	Red-bellied Snake	Storeria occipitomaculata
+Reptile	Regal Black-striped Snake	Coniophanes imperialis
+Reptile	Red-backed Whiptail	Aspidoscelis xanthonota
+Reptile	Reticulate Collared Lizard	Crotaphytus reticulatus
+Reptile	Red Diamond Rattlesnake	Crotalus ruber
+Reptile	Red Cornsnake	Pantherophis guttatus
+Reptile	Reef Gecko	Sphaerodactylus notatus
+Reptile	Rough-footed Mud Turtle	Kinosternon hirtipes
+Reptile	Rio Grande Cooter	Pseudemys gorzugi
+Reptile	Regal Horned Lizard	Phrynosoma solare
+Reptile	River Cooter	Pseudemys concinna
+Reptile	Ringed Map Turtle	Graptemys oculifera
+Reptile	Ridge-nosed Rattlesnake	Crotalus willardi
+Reptile	Ring-necked Snake	Diadophis punctatus
+Reptile	Rosy Boa	Lichanura trivirgata
+Reptile	Rough Earthsnake	Virginia striatula
+Reptile	Rough Greensnake	Opheodrys aestivus
+Reptile	Rock Rattlesnake	Crotalus lepidus
+Reptile	Rim Rock Crowned Snake	Tantilla oolitica
+Reptile	Round-tailed Horned Lizard	Phrynosoma modestum
+Reptile	Saddled Leaf-nosed Snake	Phyllorhynchus browni
+Reptile	Sandstone Night Lizard	Xantusia gracilis
+Reptile	Saltmarsh Watersnake	Nerodia clarkii
+Reptile	Switak's Banded Gecko	Coleonyx switaki
+Reptile	Smith's Black-headed Snake	Tantilla hobartsmithi
+Reptile	Slevin's Bunchgrass Lizard	Sceloporus slevini
+Reptile	Arizona Black Rattlesnake	Crotalus cerberus
+Reptile	Scarletsnake	Cemophora coccinea
+Reptile	Sonoran Collared Lizard	Crotaphytus nebrius
+Reptile	Striped Crayfish Snake	Regina alleni
+Reptile	Schott's Whipsnake	Coluber schotti
+Reptile	Southeastern Crowned Snake	Tantilla coronata
+Reptile	Southeastern Five-lined Skink	Plestiodon inexpectatus
+Reptile	Slender Glass Lizard	Ophisaurus attenuatus
+Reptile	Short-headed Gartersnake	Thamnophis brachystoma
+Reptile	Southern Hog-nosed Snake	Heterodon simus
+Reptile	Sidewinder	Crotalus cerastes
+Reptile	Sierra Gartersnake	Thamnophis couchii
+Reptile	Sierra Night Lizard	Xantusia sierrae
+Reptile	Slowinski's Cornsnake	Pantherophis slowinskii
+Reptile	Six-lined Racerunner	Aspidoscelis sexlineata
+Reptile	Smooth Earthsnake	Virginia valeriae
+Reptile	Smooth Greensnake	Opheodrys vernalis
+Reptile	Sonoran Mountain Kingsnake	Lampropeltis pyromelana
+Reptile	Gulf Coast Smooth Softshell	Apalone mutica calvata
+Reptile	Midland Smooth Softshell	Apalone mutica mutica
+Reptile	Smooth Softshell	Apalone mutica
+Reptile	Snapping Turtle	Chelydra serpentina
+Reptile	Southern Alligator Lizard	Elgaria multicarinata
+Reptile	Sonoran Coralsnake	Micruroides euryxanthus
+Reptile	Sonoran Mud Turtle	Kinosternon sonoriense
+Reptile	Southern Painted Turtle	Chrysemys dorsalis
+Reptile	Southern Watersnake	Nerodia fasciata
+Reptile	Sonoran Whipsnake	Coluber bilineatus
+Reptile	Striped Plateau Lizard	Sceloporus virgatus
+Reptile	Spotted Leaf-nosed Snake	Phyllorhynchus decurtatus
+Reptile	Speckled Racer	Drymobius margaritiferus
+Reptile	Sharp-tailed Snake	Contia tenuis
+Reptile	Spiny Softshell	Apalone spinifera
+Reptile	Spotted Turtle	Clemmys guttata
+Reptile	Speckled Rattlesnake	Crotalus mitchellii
+Reptile	Southern Rubber Boa	Charina umbratica
+Reptile	Sonoran Shovel-nosed Snake	Chionactis palarostris
+Reptile	Sonoran Spotted Whiptail	Aspidoscelis sonorae
+Reptile	Spot-tailed Earless Lizard	Holbrookia lacerata
+Reptile	Striped Mud Turtle	Kinosternon baurii
+Reptile	Striped Racer	Coluber lateralis
+Reptile	Short-tailed Snake	Lampropeltis extenuata
+Reptile	Striped Whipsnake	Coluber taeniatus
+Reptile	Suwannee Cooter	Pseudemys suwanniensis
+Reptile	Texas Alligator Lizard	Gerrhonotus infernalis
+Reptile	Trans-pecos Black-Headed Snake	Tantilla cucullata
+Reptile	Terrestrial Gartersnake	Thamnophis elegans
+Reptile	Texas Ratsnake	Pantherophis obsoletus
+Reptile	Texas Horned Lizard	Phrynosoma cornutum
+Reptile	Tamaulipan Hook-nosed Snake	Ficimia streckeri
+Reptile	Timber Rattlesnake	Crotalus horridus
+Reptile	Tiger Whiptail	Aspidoscelis tigris
+Reptile	Texas Map Turtle	Graptemys versa
+Reptile	Trans-pecos Ratsnake	Bogertophis subocularis
+Reptile	Tiger Rattlesnake	Crotalus tigris
+Reptile	Two-striped Gartersnake	Thamnophis hammondii
+Reptile	Texas Spiny Lizard	Sceloporus olivaceus
+Reptile	Twin-spotted Rattlesnake	Crotalus pricei
+Reptile	Twin-spotted Spiny Lizard	Sceloporus bimaculosus
+Reptile	Thornscrub Hook-nosed Snake	Gyalopion quadrangulare
+Reptile	Texas Banded Gecko	Coleonyx brevis
+Reptile	Texas Cooter	Pseudemys texana
+Reptile	Texas Coralsnake	Micrurus tener
+Reptile	Texas Lyresnake	Trimorphodon vilkinsonii
+Reptile	Texas Threadsnake	Leptotyphlops dulcis
+Reptile	Texas Tortoise	Gopherus berlandieri
+Reptile	Variable Sandsnake	Chilomeniscus stramineus
+Reptile	Western Banded Gecko	Coleonyx variegatus
+Reptile	Western Black-headed Snake	Tantilla planiceps
+Reptile	Western Diamond-backed Rattlesnake	Crotalus atrox
+Reptile	Western Foxsnake	Pantherophis vulpina
+Reptile	Western Lyresnake	Trimorphodon biscutatus
+Reptile	Western Rattlesnake	Crotalus oreganus
+Reptile	Western Ribbonsnake	Thamnophis proximus
+Reptile	Western Skink	Plestiodon skiltonianus
+Reptile	Western Threadsnake	Leptotyphlops humilis
+Reptile	Western Wormsnake	Carphophis vermis
+Reptile	Western Fence Lizard	Sceloporus occidentalis
+Reptile	Western Groundsnake	Sonora semiannulata
+Reptile	Wiggins' Night Lizard	Xantusia wigginsi
+Reptile	Wood Slave	Hemidactylus mabouia
+Reptile	Wood Turtle	Glyptemys insculpta
+Reptile	Western Patch-nosed Snake	Salvadora hexalepis
+Reptile	Western Pond Turtle	Actinemys marmorata
+Reptile	Western Shovel-nosed Snake	Chionactis occipitalis
+Reptile	Yaqui Black-headed Snake	Tantilla yaquia
+Reptile	Yellow-bellied Kingsnake	Lampropeltis calligaster
+Reptile	Yellow-blotched Map Turtle	Graptemys flavimaculata
+Reptile	Yellow-backed Spiny Lizard	Sceloporus uniformis
+Reptile	Yuman Fringe-toed Lizard	Uma rufopunctata
+Reptile	Yellow-headed Gecko	Gonatodes albogularis
+Reptile	Yellow Mud Turtle	Kinosternon flavescens
+Reptile	Yarrow's Spiny Lizard	Sceloporus jarrovii
+Reptile	Zebra-tailed Lizard	Callisaurus draconoides
