@@ -58,3 +58,6 @@ print(1 * 3 + 2 * 4)
 
 # A 和 B 均为一维向量，且均包含有n个元素，则A与B的点积为：
 # A[0]*B[0]+A[1]*B[1]+...+A[n]*B[n]
+
+# functions in numpy
+# https://www.numpy.org/devdocs/reference/routines.math.html
