@@ -1,0 +1,8 @@
+bread,4,1.6,food
+newspapers,1,2.0,stationery
+apples,10,8.5,food
+pears,6,5.0,food
+milk,7,8.2,food
+juicer,1,40,home appliance
+lamp,1,16,home appliance
+pen,2,12,stationery
