@@ -58,3 +58,17 @@ print(d1.query( '5 <= price <= 20'))
 
 print(d1[(d1['price'] >= 5) & (d1['price'] <= 20)])
 print(d1[d1['price'].between(5,20, inclusive=True)])
+
+## plot examples
+d1 = pd.read_csv('k1.txt', header=None, sep=',')
+d1.columns = ['item', 'number', 'price', 'category']
+
+import matplotlib.pyplot as plt
+d1.plot.bar(x='item', y=['price', 'number'])
+plt.show()
+
+d1.plot.bar(x='item', y='price')
+plt.show()
+
+d1.plot(kind='bar', x='item', y='price', color='orange' )
+plt.show()
