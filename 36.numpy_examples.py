@@ -61,3 +61,16 @@ print(1 * 3 + 2 * 4)
 
 # functions in numpy
 # https://www.numpy.org/devdocs/reference/routines.math.html
+
+## random red packets size, use 'np.random' module
+a = []
+x = 188    ## total size = 188
+for i in range(20):    # packet number is 20
+    if i != 19:
+        tmp_s = np.random.random() * (x/4)   ## max packet size is 1/4 of left volume
+        x -= tmp_s
+        a.append(tmp_s)
+    else:
+        a.append(x)
+ 
+result_a = np.random.permutation(a)
